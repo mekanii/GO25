@@ -133,42 +133,42 @@ Observasi Partisipatif
 
 ## 6. INSTRUMEN PENELITIAN
 ### Kuesioner Survey (Kuantitatif)
-#### Bagian A: Profil Responden (10 pertanyaan)
+#### Bagian A: Profil Responden
 - Data demografis dasar
 - Status sosial ekonomi
 - Latar belakang pendidikan dan pekerjaan
 
-#### Bagian B: Perilaku Digital (15 pertanyaan)
+#### Bagian B: Perilaku Digital
 - Platform media sosial yang digunakan
 - Durasi dan frekuensi penggunaan internet
 - Digital consumption patterns
 
-#### Bagian C: Nilai dan Aspirasi (20 pertanyaan)
+#### Bagian C: Nilai dan Aspirasi
 - Life values assessment
 - Future aspirations
 - Success definitions
 
-#### Bagian D: Karir dan Ekonomi (15 pertanyaan)
+#### Bagian D: Karir dan Ekonomi
 - Career preferences
 - Entrepreneurial intentions
 - Financial behavior
 
-#### Bagian E: Konsumsi dan Lifestyle (10 pertanyaan)
+#### Bagian E: Konsumsi dan Lifestyle
 - Brand preferences
 - Consumption patterns
 - Lifestyle choices
 
-#### Bagian F: Partisipasi Sosial (10 pertanyaan)
+#### Bagian F: Partisipasi Sosial
 - Social and political engagement
 - Community involvement
 - Environmental awareness
 
-#### Bagian G: Identitas Budaya (10 pertanyaan)
+#### Bagian G: Identitas Budaya
 - Cultural identity
 - Local vs global orientation
 - Cultural practices
 
-#### Bagian H: Kesehatan Mental (10 pertanyaan)
+#### Bagian H: Kesehatan Mental
 - Mental health status
 - Stress levels
 - Coping strategies
