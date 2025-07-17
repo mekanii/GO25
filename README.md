@@ -19,7 +19,7 @@ Generasi Z Indonesia (lahir 1995-2010) merupakan generasi terbesar di Indonesia 
 - **Teknologi Sentral**<br>Teknologi memainkan peran sentral dalam kehidupan mereka.
 - **Komunikasi Digital**<br>Mahir menggunakan alat digital untuk kolaborasi dan komunikasi.
 - **Akses Informasi**<br>Memiliki akses mudah ke informasi dan sumber daya online.
-- **Multi-tasking**<br>Mampu mengelola multiple tugas secara bersamaan menggunakan teknologi.
+- **Multi-tasking**<br>Mampu mengelola multiple task secara bersamaan menggunakan teknologi.
 
 ### 2. Orientasi Nilai dan Mindset
 - **Present-focused**<br>Fokus pada hidup di masa kini dan menerima momen saat ini.
