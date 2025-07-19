@@ -64,7 +64,6 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 *Multiple-response questionnaires allow the total result to exceed 100%
 
 > How Millennials & Gen Z Respond to Gender Shifting Roles in Family
-
 > | Millennials and Gen Z Perspectives on Gender Role Changes in Family Dynamics  | Millenials  | Gen Z |
 > |:----------------------------------------------------------------------------- | -----------:| -----:|
 > | Support with Traditional Safeguards                                           |         49% |   50% |
@@ -72,7 +71,6 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 > | Full Support for Balance                                                      |         39% |   48% |
 > | Concerned About Conflict                                                      |         31% |   29% |
 > | Traditional Role Preference                                                   |         27% |   24% |
-
 > *This data represents 82% of Millennials and Gen Z who support gender equality
 
 However, a clear difference emerges in the degree of acceptance and enthusiasm for these changes. Millennials, though supportive of shifts in gender roles, tend to approach them with caution—48% indicate they need time to adjust. In contrast, Gen Z demonstrates a more progressive stance, with nearly half (48%) fully endorsing the belief that shifting gender roles can bring balance and happiness to the family. This generational gap underscores Gen Z’s reputation for being forward-thinking and adaptable, showing a greater willingness to embrace significant changes in household dynamics. Gen Z’s openness likely stems from broader exposure to global ideas of gender equality and a strong belief in the positive outcomes of such changes, whereas Millennials, despite their support, may still prefer the security of gradual adaptation and the comfort of traditional values.
