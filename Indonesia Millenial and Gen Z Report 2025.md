@@ -111,7 +111,9 @@ Additionally, both generations show a strong interest in increasing income throu
 >Millennials and Gen Z Diverse Paths to Financial Independence
 >
 >> Both Millennials and Gen Z acknowledge the importance of saving and investing as essential strategies for building financial security. Gen Z, in particular, prioritizes these actions, reflecting their focus on long-term wealth accumulation.
+>
 >>Across generations, there is a strong interest in supplementing income through side hustles or entrepreneurship. This approach allows families to diversify their income streams and mitigate financial risk.
+>
 >>Millennials, more so than Gen Z, emphasize the importance of budgeting. By organizing their finances through budgeting, families can better manage their expenses, plan for the future, and ensure financial stability.
 
 ### Opening Doors for Women’s Empowerment and Growth
