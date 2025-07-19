@@ -52,7 +52,6 @@ Despite these advancements, the double burden of domestic responsibilities often
 Our data shows that both Gen Z and Millennials maintain a deep respect for traditional values, particularly concerning evolving gender roles within the family. While 82% of both generations support gender equality, backing changes in gender roles as long as they don’t disrupt existing traditions, it’s clear that preserving cultural norms remains a significant concern for both groups. This highlights that, while there is growing acceptance of gender role evolution, there is also a strong inclination to maintain a connection to established cultural practices. This delicate balance between embracing modernity and honoring tradition underscores the thoughtful and nuanced approach both generations take toward changes in family structures.
 
 #### Levels of Support and Involvement in Gender Equality Initiatives
-
 |                                                                                 |     |
 | ------------------------------------------------------------------------------- | ---:|
 | Talk to family and friends about the importance of gender equality              | 38% |
@@ -65,8 +64,8 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 
 *Multiple-response questionnaires allow the total result to exceed 100%
 
-### How Millennials & Gen Z Respond to Gender Shifting Roles in Family
-#### Millennials and Gen Z Perspectives on Gender Role Changes in Family Dynamics
+#### How Millennials & Gen Z Respond to Gender Shifting Roles in Family
+ Millennials and Gen Z Perspectives on Gender Role Changes in Family Dynamics
 |                                       | Millenials  | Gen Z |
 | ------------------------------------- | -----------:| -----:|
 | Support with Traditional Safeguards   |         49% |   50% |
@@ -76,6 +75,7 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 | Traditional Role Preference           |         27% |   24% |
 
 *This data represents 82% of Millennials and Gen Z who support gender equality
+
 
 
 ## Redefining Relationships with New Perspectives on Marriage and Divorce
