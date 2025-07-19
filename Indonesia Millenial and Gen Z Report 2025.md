@@ -139,15 +139,17 @@ The time to act is now. By embracing these challenges with compassion, understan
 As Indonesia rapidly urbanizes and undergoes societal changes, the traditional bonds that have long tied families together are being tested and transformed. The Indonesia Millennials and Gen Z Report explores the evolving dynamics of family relationships among Millennials and Gen Z, particularly how these generations balance the deep-rooted communal values of Indonesian culture with the demands of modern life.
 
 ### Redefining Family Ties for Millennials and Gen Z
-| Strength of Family Connections Among Millennials and Gen Z in Indonesia |     |
-|:----------------------------------------------------------------------- | ---:|
-| Strong Connection                                                       | 73% |
-| Moderate Connection                                                     | 22% |
-| Weak Connection                                                         |  5% |
+<p align="center">
+  <img src="assets/image/05.png" alt="strength-of-family-connections-among-millennials-and-gen-z-in-indonesia">
+</p>
 
 Our data reveals that a significant majority of Millennials and Gen Z maintain close ties with their extended families, with 73% of respondents across both generations reporting a strong connection. This enduring bond underscores the cultural significance of family in Indonesian society, where relationships with extended relatives are often seen as crucial to one’s social and emotional support network. However, a closer look at the data reveals important nuances in how these bonds differ between urban and rural settings.
 
 Millennials and Gen Z in smaller cities report feeling closer to their extended families than their counterparts in larger urban areas. For instance, 74% of Gen Z in smaller cities feel close to their families, compared to just 70% in big cities. Similarly, 76% of Millennials in smaller cities maintain close ties, slightly more than the 71% in big cities. Although the differences are modest, they suggest that the fast-paced, high-pressure lifestyle associated with urban areas might be subtly weakening familial bonds.
+
+<p align="center">
+  <img src="assets/image/06.png" alt="comparing-extended-family-ties-millennials-vs-gen-z-in-urban-and-rural-areas">
+</p>
 
 In smaller cities, the slower pace of life and close-knit communities create a more favorable environment for nurturing family relationships. The communal approach to childcare, deeply rooted in Indonesian culture, remains strong in these areas. It is common to see neighbors, extended family members, and grandparents actively participating in raising children, reflecting the belief that “it takes a village to raise a child.” This communal spirit, known locally as “gotong-royong,” emphasizes mutual support and collective responsibility, extending childcare duties beyond just the parents.
 
@@ -166,9 +168,15 @@ Sandra Ratnasari, Editor in Chief of Popmama.com, highlights the challenges that
 
 ### Guiding Children in the Digital Age
 
+<p align="center">
+  <img src="assets/image/07.png" alt="parental-strategies-in-utilizing-technology-for-children">
+</p>
 
 As urban life continues to strain traditional family ties, the role of technology in parenting has become increasingly significant. The data highlights how Millennials and Gen Z parents in Indonesia are navigating the challenges of integrating technology into their children’s lives, with a clear focus on controlling and curating their children’s digital experiences.A significant portion of parents—57% overall—choose to limit their children’s access to certain technology devices. This approach is particularly favored by Millennials, with 60% employing this strategy compared to 53% of Gen Z parents. This suggests that Millennials, who likely experienced the rise of technology during their own formative years, are more inclined to set boundaries to prevent overexposure to digital devices.
 
+<p align="center">
+  <img src="assets/image/08.png" alt="parental-strategies-in-utilizing-technology-for-children-big-cities-vs-smaller-cities">
+</p>
 
 The data also reveals a difference between Gen Z parents in big cities and those in smaller cities. In big cities, only 49% of Gen Z parents limit access, while 57% in smaller cities do the same. This may indicate that Gen Z parents in urban areas, influenced by the pervasive use of technology in city life, are more lenient, whereas those in smaller cities may take a more conservative or traditional approach.
 
