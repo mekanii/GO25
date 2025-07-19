@@ -53,7 +53,8 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 
 #### Levels of Support and Involvement in Gender Equality Initiatives
 
-| ------------------------------------------------------------------------------- | ---:|
+<!-- |                                                                                 |     |
+| ------------------------------------------------------------------------------- | ---:| -->
 | Talk to family and friends about the importance of gender equality              | 38% |
 | Not actively involved in gender equality advocacy, but supports its principles  | 36% |
 | Support companies and organizations committed to gender equality                | 29% |
@@ -74,7 +75,7 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 | Concerned About Conflict              |         31% |   29% |
 | Traditional Role Preference           |         27% |   24% |
 
-
+*This data represents 82% of Millennials and Gen Z who support gender equality
 
 
 ## Redefining Relationships with New Perspectives on Marriage and Divorce
