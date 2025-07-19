@@ -51,28 +51,15 @@ Despite these advancements, the double burden of domestic responsibilities often
 ### Balancing Tradition and Progress in Family Life
 Our data shows that both Gen Z and Millennials maintain a deep respect for traditional values, particularly concerning evolving gender roles within the family. While 82% of both generations support gender equality, backing changes in gender roles as long as they don’t disrupt existing traditions, it’s clear that preserving cultural norms remains a significant concern for both groups. This highlights that, while there is growing acceptance of gender role evolution, there is also a strong inclination to maintain a connection to established cultural practices. This delicate balance between embracing modernity and honoring tradition underscores the thoughtful and nuanced approach both generations take toward changes in family structures.
 
-| Levels of Support and Involvement in Gender Equality Initiatives                |     |
-|:------------------------------------------------------------------------------- | ---:|
-| Talk to family and friends about the importance of gender equality              | 38% |
-| Not actively involved in gender equality advocacy, but supports its principles  | 36% |
-| Support companies and organizations committed to gender equality                | 29% |
-| Express opinions about gender equality issues on social media or online forums  | 21% |
-| Actively involved in organizations or movements that support gender equality    | 20% |
-| Striving to challenge gender stereotypes in my daily lif                        | 20% |
-| I don’t support gender equality at all                                          | 18% |
-
-*Multiple-response questionnaires allow the total result to exceed 100%
+<p align="center">
+  <img src="assets/image/01.png" alt="levels-of-support-and-involvement-in-gender-equality-initiatives">
+</p>
 
 #### How Millennials & Gen Z Respond to Gender Shifting Roles in Family
-| Millennials and Gen Z Perspectives on Gender Role Changes in Family Dynamics  | Millenials  | Gen Z |
-|:----------------------------------------------------------------------------- | -----------:| -----:|
-| Support with Traditional Safeguards                                           |         49% |   50% |
-| Gradual Acceptance                                                            |         48% |   43% |
-| Full Support for Balance                                                      |         39% |   48% |
-| Concerned About Conflict                                                      |         31% |   29% |
-| Traditional Role Preference                                                   |         27% |   24% |
 
-*This data represents 82% of Millennials and Gen Z who support gender equality
+<p align="center">
+  <img src="assets/image/02.png" alt="millennials-and-gen-z-perspectives-on-gender-role-changes-in-family-dynamics">
+</p>
 
 However, a clear difference emerges in the degree of acceptance and enthusiasm for these changes. Millennials, though supportive of shifts in gender roles, tend to approach them with caution—48% indicate they need time to adjust. In contrast, Gen Z demonstrates a more progressive stance, with nearly half (48%) fully endorsing the belief that shifting gender roles can bring balance and happiness to the family. This generational gap underscores Gen Z’s reputation for being forward-thinking and adaptable, showing a greater willingness to embrace significant changes in household dynamics. Gen Z’s openness likely stems from broader exposure to global ideas of gender equality and a strong belief in the positive outcomes of such changes, whereas Millennials, despite their support, may still prefer the security of gradual adaptation and the comfort of traditional values.
 
@@ -95,14 +82,9 @@ To unlock these benefits, the Indonesian government could consider several key a
 
 ### Navigating Financial Independence Across Generations
 
-#### Top 3 Actions for Financial Independence in Family
-| Millennial and Gen Z Strategies for Achieving Financial Independence in Families  | Millenial | Gen Z |
-|:--------------------------------------------------------------------------------- | ---------:| -----:|
-| Increase Income                                                                   |       44% |   43% |
-| Share Financial Responsibilities                                                  |       39% |   39% |
-| Create Financial Budget                                                           |       34% |   34% |
-
-*Multiple-response questionnaires allow the total result to exceed 100%
+<p align="center">
+  <img src="assets/image/03.png" alt="top-3-actions-for-financial-independence-in-family">
+</p>
 
 As gender roles evolve, the strategies Millennials and Gen Z use to achieve financial independence are also shifting. Our data suggests that Millennials adopt a more balanced approach, placing slightly greater emphasis on both saving/investing and creating household budgets. With 39% of Millennials prioritizing budgeting compared to 34% of Gen Z, it’s clear that Millennials favor a more structured and organized method for managing their finances. This focus on budgeting underscores a generational preference for financial planning and structure, likely influenced by their current life stages and financial responsibilities.
 
@@ -118,7 +100,7 @@ Additionally, both generations show a strong interest in increasing income throu
 ### Opening Doors for Women’s Empowerment and Growth
 Kalis Mardiasih highlights that daycare services are not just a modern innovation but a continuation of Indonesia’s cultural legacy. In many communities, children have traditionally been raised collectively—not just by their parents, but also by grandparents, neighbors, and extended family members. As more women enter the workforce, expanding access to daycare is essential for promoting gender equality. However, it is vital to ensure that these services are accessible to everyone, regardless of their location. By embracing and expanding daycare, Indonesia can honor its tradition of communal caregiving while empowering women to pursue their professional goals without compromising their roles as mothers.
 
-“Daycare isn’t just a modern necessity; it’s deeply connected to our tradition of families and communities raising children together. As more women enter the workforce, ensuring accessible daycare becomes essential not only for gender equality but also for empowering families to make informed financial decisions. Expanding these services supports women in their careers, while families can plan their finances with greater confidence, knowing their children are well cared for” — Kalis Mardiasih, an Opinion Writer and Young Nahdlatul ‘Ulama (NU) Activist.
+> “Daycare isn’t just a modern necessity; it’s deeply connected to our tradition of families and communities raising children together. As more women enter the workforce, ensuring accessible daycare becomes essential not only for gender equality but also for empowering families to make informed financial decisions. Expanding these services supports women in their careers, while families can plan their finances with greater confidence, knowing their children are well cared for” — Kalis Mardiasih, an Opinion Writer and Young Nahdlatul ‘Ulama (NU) Activist.
 
 Investing in childcare is, fundamentally, an investment in Indonesia’s future. It supports working women, encourages greater involvement from husbands in household responsibilities, strengthens the economy, and fosters a more inclusive society. By taking these steps, the government can unlock Indonesia’s full potential and pave the way for a brighter, more equitable future.
 
@@ -126,18 +108,10 @@ Investing in childcare is, fundamentally, an investment in Indonesia’s future.
 Indonesia is undergoing a profound transformation in family dynamics, particularly in marriage, where rising divorce rates and changing attitudes towards traditional unions are reshaping the social fabric. Over the past few years, the country has experienced a significant increase in divorce rates, with data from the Central Bureau of Statistics (BPS) showing that the number of divorce cases has steadily climbed, reaching up to 500,000 annually. This alarming trend has raised concerns among various parties, including the government, with the Head of the National Population and Family Planning Agency (BKKBN) warning that the rising divorce rate could threaten the stability and resilience of families.
 
 ### Understanding Modern Challenges Behind Rising Divorce Rates
-| Evolving Family and Marriage Trends Among Millennials and Gen Z in Indonesia  | Millenial | Gen Z |
-|:----------------------------------------------------------------------------- | ---------:| -----:|
-| Rising Divorce Rates                                                          |       54% |   59% |
-| Preferences for Smaller Families                                              |       47% |   42% |
-| Tech integration in Family Life                                               |       36% |   37% |
-| Delayed Marriages                                                             |       32% |   38% |
-| Focus on Mental Health                                                        |       31% |   30% |
-| Gender Equality in Roles                                                      |       29% |   28% |
-| Child-Free Culture                                                            |       20% |   24% |
-| Migration Trends                                                              |       15% |   14% |
 
-*Multiple-response questionnaires allow the total result to exceed 100%
+<p align="center">
+  <img src="assets/image/04.png" alt="evolving-family-and-marriage-trends-among-millennials-and-gen-z-in-indonesia">
+</p>
 
 The rising divorce rates in Indonesia are a significant concern, with 62% of Indonesians acknowledging this trend. Millennials, especially those living in big cities, are facing increased marital instability. The pressures of modern life—such as financial stress, demanding work schedules, and the complexities of balancing personal and professional responsibilities—are contributing to the strain on marriages.
 
@@ -152,7 +126,7 @@ Additionally, educational programs that prepare young people for the realities o
 
 Supporting women through education, financial opportunities, and legal protections is essential for reducing rising divorce rates and ensuring the well-being of all family members. Financial empowerment, in particular, plays a critical role in enabling women to leave unhealthy or abusive marriages and secure a better future for themselves and their families.
 
-“We need strong support systems to help couples handle the pressures of modern life—things like accessible marriage counseling, community networks, and policies that support work-life balance. Educating young people on the realities of marriage, from communication to financial management, is key to building resilient relationships. It’s also crucial that government policies offer real financial incentives and protections, especially for women, so they have the resources and confidence to leave unhealthy or abusive marriages if needed” — Samanta Elsener, M.Psi., Psychologist & Writer.
+> “We need strong support systems to help couples handle the pressures of modern life—things like accessible marriage counseling, community networks, and policies that support work-life balance. Educating young people on the realities of marriage, from communication to financial management, is key to building resilient relationships. It’s also crucial that government policies offer real financial incentives and protections, especially for women, so they have the resources and confidence to leave unhealthy or abusive marriages if needed” — Samanta Elsener, M.Psi., Psychologist & Writer.
 
 ### A Collective Effort to Adapt to Changing Views on Marriage
 The rising divorce rates and changing nature of marriage in Indonesia present challenges that require a coordinated and proactive response. Policymakers, community leaders, and individuals must work together to create an environment that supports and strengthens marriages, recognizing the critical role they play in the fabric of society.
@@ -163,6 +137,50 @@ The time to act is now. By embracing these challenges with compassion, understan
 
 ## Parenting Today by Blending Tradition with Urban Life
 As Indonesia rapidly urbanizes and undergoes societal changes, the traditional bonds that have long tied families together are being tested and transformed. The Indonesia Millennials and Gen Z Report explores the evolving dynamics of family relationships among Millennials and Gen Z, particularly how these generations balance the deep-rooted communal values of Indonesian culture with the demands of modern life.
+
+### Redefining Family Ties for Millennials and Gen Z
+| Strength of Family Connections Among Millennials and Gen Z in Indonesia |     |
+|:----------------------------------------------------------------------- | ---:|
+| Strong Connection                                                       | 73% |
+| Moderate Connection                                                     | 22% |
+| Weak Connection                                                         |  5% |
+
+Our data reveals that a significant majority of Millennials and Gen Z maintain close ties with their extended families, with 73% of respondents across both generations reporting a strong connection. This enduring bond underscores the cultural significance of family in Indonesian society, where relationships with extended relatives are often seen as crucial to one’s social and emotional support network. However, a closer look at the data reveals important nuances in how these bonds differ between urban and rural settings.
+
+Millennials and Gen Z in smaller cities report feeling closer to their extended families than their counterparts in larger urban areas. For instance, 74% of Gen Z in smaller cities feel close to their families, compared to just 70% in big cities. Similarly, 76% of Millennials in smaller cities maintain close ties, slightly more than the 71% in big cities. Although the differences are modest, they suggest that the fast-paced, high-pressure lifestyle associated with urban areas might be subtly weakening familial bonds.
+
+In smaller cities, the slower pace of life and close-knit communities create a more favorable environment for nurturing family relationships. The communal approach to childcare, deeply rooted in Indonesian culture, remains strong in these areas. It is common to see neighbors, extended family members, and grandparents actively participating in raising children, reflecting the belief that “it takes a village to raise a child.” This communal spirit, known locally as “gotong-royong,” emphasizes mutual support and collective responsibility, extending childcare duties beyond just the parents.
+
+In contrast, the pressures of urban life—marked by demanding work schedules and the distractions of modern living—appear to be undermining these traditional practices. The data suggests that Millennials and Gen Z in big cities may have less time and emotional energy to invest in relationships with their extended families, potentially leading to a gradual weakening of these bonds over time.
+
+### Keeping Cultural Traditions Alive in Modern Parenting
+For Millennials and Gen Z, blending traditional values with modern life is crucial to maintaining close relationships with their extended families. Many young families still live with or near their parents, enabling grandparents to play a significant role in raising the children. This arrangement not only strengthens family bonds but also helps preserve cultural values as younger generations navigate the complexities of modern life.
+
+This lifestyle is more than just practical; it is a deliberate choice to keep heritage alive. The survey indicates that values such as mutual care, gotong-royong, and respect remain deeply ingrained. A substantial 64% of Millennials and 63% of Gen Z place great importance on maintaining family connections, with a similar percentage valuing the spirit of gotong-royong. Politeness and respect also hold strong, with 60% of both groups emphasizing their significance.
+
+These values continue to shape family dynamics, demonstrating that while times change, the core of Indonesian family life endures. However, this communal spirit can sometimes lead to friction, especially when personal parenting decisions differ from community expectations. Differences in areas like diet or screen time can result in misunderstandings or conflicts within the family.
+
+Sandra Ratnasari, Editor in Chief of Popmama.com, highlights the challenges that first-time parents often face when setting boundaries with older relatives involved in childcare. She points out that while respecting elders is a deeply rooted cultural value, it is equally important for young parents to have the space to navigate their own parenting journey. They need the freedom to establish their routines, even if it involves a learning curve. According to Ratnasari, finding a balance between honoring tradition and embracing modern parenting practices is essential for maintaining family harmony and ensuring that cultural values remain relevant in today’s world.
+
+> “Respect for elders is essential in our culture, but young couples should have the freedom to discover their own approach to parenting, even as they learn through experience. Balancing the respect for tradition with the flexibility for modern parenting is key to maintaining family harmony” — Sandra Ratnasari, Editor in Chief of Popmama.com.
+
+### Guiding Children in the Digital Age
+
+
+As urban life continues to strain traditional family ties, the role of technology in parenting has become increasingly significant. The data highlights how Millennials and Gen Z parents in Indonesia are navigating the challenges of integrating technology into their children’s lives, with a clear focus on controlling and curating their children’s digital experiences.A significant portion of parents—57% overall—choose to limit their children’s access to certain technology devices. This approach is particularly favored by Millennials, with 60% employing this strategy compared to 53% of Gen Z parents. This suggests that Millennials, who likely experienced the rise of technology during their own formative years, are more inclined to set boundaries to prevent overexposure to digital devices.
+
+
+The data also reveals a difference between Gen Z parents in big cities and those in smaller cities. In big cities, only 49% of Gen Z parents limit access, while 57% in smaller cities do the same. This may indicate that Gen Z parents in urban areas, influenced by the pervasive use of technology in city life, are more lenient, whereas those in smaller cities may take a more conservative or traditional approach.
+
+Choosing educational applications and websites that align with cultural values is the second most common strategy, with 27% of parents overall selecting this option. Gen Z parents are slightly more inclined toward this approach (29%) compared to Millennials (24%). This preference underscores a growing awareness among Gen Z parents of the importance of cultural relevance in their children’s digital content.
+
+Interestingly, Gen Z parents in big cities are more likely (30%) to prioritize cultural educational content than their counterparts in smaller cities (27%). This could reflect a trend where urban Gen Z parents, exposed to diverse global cultures, are actively seeking content that reinforces Indonesian cultural identity amidst the influx of international media.
+
+Only 9% of parents choose to completely avoid the use of technology for educational purposes. This figure is consistent across both Millennials and Gen Z, indicating that a small but steady minority of parents prefer traditional, non-digital educational methods.
+
+Notably, there is a slight increase among Gen Z parents in big cities (12%) who avoid technology compared to those in smaller cities (8%). This may suggest a counter-trend where some urban parents, possibly concerned about the overuse of technology, are opting to keep their children’s education tech-free.
+
+Allowing children to use technology freely is the least popular strategy, chosen by only 8% of Millennials and Gen Z parents. Millennials in big cities show a slightly higher preference at 9%, while those in smaller cities are at 8%. Among Gen Z parents, 8% in big cities allow free technology use, compared to just 5% in smaller cities. The data suggests a general consensus among parents of both generations, across different city sizes, that unrestricted access to technology is not advisable.
 
 ## Spirituality and Faith Guiding Indonesia’s Youth
 ## Embracing Change While Celebrating Heritage
