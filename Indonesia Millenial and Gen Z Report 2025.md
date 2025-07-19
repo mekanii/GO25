@@ -212,7 +212,7 @@ While the data reaffirms the strong family connections that define Indonesian so
 
 ### Finding Balance in Managing Kids’ Screen Time
 #### Millennial Parents
-> **Maria, 35 years old, Jakarta - Marketing Manager:**
+> **Maria, 35 years old, Jakarta - Marketing Manager:**<br>
 > “I’m committed to avoiding my kid becoming addicted to devices. I’m setting strict rules on screen time and focusing on educational content. My aim is to encourage my child to engage in more outdoor play and real-world interactions, fostering an appreciation for life beyond the screen.”
 
 #### Gen Z Parents
