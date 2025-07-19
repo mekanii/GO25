@@ -215,7 +215,57 @@ While the data reaffirms the strong family connections that define Indonesian so
 > **Maria, 35 years old, Jakarta - Marketing Manager:**<br>
 > “I’m committed to avoiding my kid becoming addicted to devices. I’m setting strict rules on screen time and focusing on educational content. My aim is to encourage my child to engage in more outdoor play and real-world interactions, fostering an appreciation for life beyond the screen.”
 
+> **Azman, 36 years old, Jakarta - IT Specialist:**<br>
+> “Given my own experience with technology, I’m careful about how and when my children use screens. I’ve decided they won’t have their own devices until they’re older, focusing on child-safe content and educational apps to ensure a balanced upbringing. I sometimes fear there will be protests in the near future but let’s see who can hold the fort longer—me or my kid.”
+
+> **Raka, 36 years old, Surabaya - Chemical Engineer:**<br>
+> “Seeing my sister’s kids overly reliant on screens, I’ve chosen to keep devices out of social settings and family activities. We engage in activities that involve everyone and emphasize unplugging to promote my child’s well-being and personal development. While it’s tempting to seek a specific number of screen hours as a ‘safe’ guideline for technology use, there’s no solid evidence proving that fixed limits are inherently beneficial. Instead, focusing on mindful and balanced usage is key.”
+
+> **Fifa, 36 years old, Jakarta - Elementary Teacher:**<br>
+> “I agree with other parents and experts that phones and tablets, especially with the content they offer, can harm our kids and us. Endless YouTube playlists and algorithms erode our attention spans, making us less social and more anxious. I feel it myself every time I’m glued to my phone instead of doing something else. That’s why my friends and I decided to ban YouTube and keep tablets out of our homes. We want our kids to experience boredom and let their attention spans develop naturally, without constant screen distractions.”
+
 #### Gen Z Parents
+**Aulia, 25 years old, Bandung - Social Media Manager:**<br>
+“As a Gen Z parent, I aim to integrate technology into my children’s lives in a balanced way, focusing on educational and creative uses while managing time limits. In today’s world, where technology is essential and platforms like YouTube are useful, it’s inevitable that kids will need their own devices. The challenge is navigating when, which ones, how much, and what to limit, which can be overwhelming. Striking the right balance is tough; I’ve often worried whether we were too strict or too lenient. Especially during the pandemic, finding a healthy screen time routine for each child has been more complex than ever.”
+
+**Danisa, 26 years old, Jakarta - Graphic Designer:**<br>
+“I’m cautious about my children’s online activity. I use filters and set daily limits to ensure their screen time is regulated and safe, aiming to instill an understanding of responsible technology use from an early age.”
+
+**Marissa, 26 years old, Jakarta - Freelance Writer:**<br>
+“I sometimes rely on screens to occupy my child. Though I feel guilty about not managing screen time more strictly, my priority is balancing work and family needs. I strive to make screen time as purposeful as possible given the circumstances.”
+
+**Arayya, 26 years old, Bandung - Project Manager:**<br>
+“Using screens in restaurants helps keep my kids occupied and avoid disturbing other diners. It’s not just for my convenience but also about respecting others in public spaces. Many parents feel the same pressure, as there’s a growing sense that society prefers families to stay home or stick to designated play areas, away from public spaces.
 
 ## Spirituality and Faith Guiding Indonesia’s Youth
+### Drawing Strength and Guidance from Faith
+Religion continues to be a cornerstone for both Millennials and Gen Z in Indonesia, offering a source of gratitude and a foundation for moral guidance. Across urban and rural settings alike, faith plays a deep-rooted role in helping people navigate the complexities of modern life. Millennials, particularly those in smaller towns, maintain a strong connection to their religious values, often turning to their faith for ethical direction and finding comfort during difficult times. This connection to traditional values remains particularly strong in community-oriented environments, where faith continues to influence daily decisions and actions.
+
+For Gen Z, religion plays an equally significant role, often serving as a stabilizing force amid the unpredictability of the modern world. In smaller, close-knit communities, this generation is deeply engaged in religious practices, finding comfort and stability in their faith. Even in the fast-paced environments of urban areas, many Millennials and Gen Z individuals seek solace and a connection to a higher power through their spirituality, underscoring the enduring importance of faith in providing purpose and grounding in the face of life’s challenges. This spiritual connection, often more profound in smaller towns, highlights how communal and traditional aspects of these environments foster a deeper, more personal relationship with faith.
+
+-- pic
+
+### How Young People Connect with Religious Communities
+The data reveals a distinct generational divide in how Millennials and Gen Z use social media for religious purposes. Nearly half of Gen Z (49%) turn to these platforms primarily for learning about religion, reflecting a phase of exploration where understanding and education take precedence. In contrast, Millennials are more active when it comes to sharing and discussing their beliefs. With 26% of Millennials participating in religious discussions and the same percentage sharing their religious experiences online, this group demonstrates a stronger inclination towards community engagement and active participation in spiritual matters.
+
+-- pic
+
+Social media is proving to be much more than a passive space for religious content; it’s actively shaping how people engage with their faith and connect with others. For Millennials, particularly those in urban environments, social media serves as a crucial platform for following religious leaders, engaging in discussions, and sharing beliefs. This higher level of participation underscores the role of social media in fostering a sense of community around religion. Meanwhile, Gen Z, especially in cities, seems to use social media more for personal growth and understanding, prioritizing learning before they engage more deeply with others.The broader picture shows that social media’s influence on religion and spirituality is multifaceted. A significant54% of users report feeling more tolerant of religious differences thanks to their online experiences, while 46% use these platforms to deepen their understanding of religion. Additionally, 36% seek to better understand other religions, and 30% follow religious leaders and organizations, indicating that social media is fostering both personal and communal religious engagement. With 26% of users inspired to learn more about other religions and 25% participating in religious dialogues, it’s clear that social media is playing a pivotal role in enhancing religious literacy and interfaith understanding. Far from being just another digital distraction, social media is reshaping how people interact with their faith, promoting both individual reflection and collective participation.
+
+### Encouraging Open Conversations on Tolerance and Faith
+In Indonesia, a country where various religions like Islam, Christianity, Hinduism, and Buddhism coexist, the rise of religious tolerance among the younger generation is both important and timely. Lately, there’s been a clear shift – more open discussions around religion, signaling a move toward greater acceptance and mutual respect in society.
+
+A notable example of this shift is the YouTube program “Log In,” hosted by Husein Ja’far Al Hadar, popularly known as Habib Ja’far, and Onadio Leonardo on Deddy Corbuzier’s “Close The Door” channel during Ramadan. “Log In” has garnered immense popularity, with millions of views per episode, by promoting religious tolerance through engaging and accessible content. The show features open dialogues between religious leaders from various backgrounds and everyday people navigating interfaith relationships in their families, friendships, and workplaces. These candid, often humorous conversations deliver powerful messages of peace and acceptance, deeply resonating with its audience.
+
+> Husein Ja’far Al Hadar, Islamic Content Creator, encapsulates the essence of religious coexistence, saying, “In Islam, we are always reminded that religion should primarily be a way of life that regulates our relationships not only with God but also with other human beings, even if we believe in different things. What we should discuss is how we can all live differently while embracing kindness as a shared value for all.” This growing emphasis on tolerance extends beyond peaceful coexistence; it encourages active engagement with different beliefs and finding common ground. Programs like “Log In” are instrumental in making religious discussions relatable and relevant to Millennials and Gen Z, fostering a more inclusive and tolerant society.
+
+> During his recent visit to Indonesia in September 2024, His Holiness Pope Francis emphasized the importance of 
+religious harmony and the practice of tolerance within Indonesian society.
+>> ”Harmony within diversity is achieved when every ethnic group and religious denomination acts in a spirit of brotherhood, while pursuing noble goals by serving the common good.”
+
+>> ”Most of humanity is marginalized, lacking the means to live a dignified life and without protection from the growing and serious social inequality.”
+
+>> ”The phenomenon of dehumanization that manipulates religion to perpetuate violence and bloody conflict, as well as the rampant exploitation of the environment that has led to a climate crisis, must be fought together by religious communities around the world.”
+
+>> ”Prejudices can be eradicated, and an atmosphere of mutual respect and trust can grow. This is crucial to face our common challenges, including the fight against extremism and intolerance.”
 ## Embracing Change While Celebrating Heritage
