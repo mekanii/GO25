@@ -243,12 +243,16 @@ Religion continues to be a cornerstone for both Millennials and Gen Z in Indones
 
 For Gen Z, religion plays an equally significant role, often serving as a stabilizing force amid the unpredictability of the modern world. In smaller, close-knit communities, this generation is deeply engaged in religious practices, finding comfort and stability in their faith. Even in the fast-paced environments of urban areas, many Millennials and Gen Z individuals seek solace and a connection to a higher power through their spirituality, underscoring the enduring importance of faith in providing purpose and grounding in the face of life’s challenges. This spiritual connection, often more profound in smaller towns, highlights how communal and traditional aspects of these environments foster a deeper, more personal relationship with faith.
 
--- pic
+<p align="center">
+  <img src="assets/image/09.png" alt="benefits-of-religion-and-spirituality-in-daily-life">
+</p>
 
 ### How Young People Connect with Religious Communities
 The data reveals a distinct generational divide in how Millennials and Gen Z use social media for religious purposes. Nearly half of Gen Z (49%) turn to these platforms primarily for learning about religion, reflecting a phase of exploration where understanding and education take precedence. In contrast, Millennials are more active when it comes to sharing and discussing their beliefs. With 26% of Millennials participating in religious discussions and the same percentage sharing their religious experiences online, this group demonstrates a stronger inclination towards community engagement and active participation in spiritual matters.
 
--- pic
+<p align="center">
+  <img src="assets/image/10.png" alt="the-role-of-social-media-in-religion-and-spirituality">
+</p>
 
 Social media is proving to be much more than a passive space for religious content; it’s actively shaping how people engage with their faith and connect with others. For Millennials, particularly those in urban environments, social media serves as a crucial platform for following religious leaders, engaging in discussions, and sharing beliefs. This higher level of participation underscores the role of social media in fostering a sense of community around religion. Meanwhile, Gen Z, especially in cities, seems to use social media more for personal growth and understanding, prioritizing learning before they engage more deeply with others.The broader picture shows that social media’s influence on religion and spirituality is multifaceted. A significant54% of users report feeling more tolerant of religious differences thanks to their online experiences, while 46% use these platforms to deepen their understanding of religion. Additionally, 36% seek to better understand other religions, and 30% follow religious leaders and organizations, indicating that social media is fostering both personal and communal religious engagement. With 26% of users inspired to learn more about other religions and 25% participating in religious dialogues, it’s clear that social media is playing a pivotal role in enhancing religious literacy and interfaith understanding. Far from being just another digital distraction, social media is reshaping how people interact with their faith, promoting both individual reflection and collective participation.
 
@@ -278,7 +282,10 @@ Husein Ja’far Al Hadar speaks to the profound role of religion in offering emo
 >
 > — Husein Ja’far Al Hadar, Islamic Content Creator
 
---pic
+### Harmonizing Traditional Rituals with Personal Beliefs
+<p align="center">
+  <img src="assets/image/11.png" alt="behavioral-habits-related-to-religion-and-spirituality">
+</p>
 
 The data highlights distinct differences in how Millennials and Gen Z engage with religion and spirituality, influenced by both generational and geographic factors. As Millennials age, they appear to gravitate more consistently towards regular religious rituals. For instance, 43% of Millennials are actively involved in religious activities on a regular basis, with this figure rising to 47% in smaller towns. This trend suggests that Millennials, particularly those in more traditional or close-knit communities, continue to find value in consistent religious practices. Life milestones such as marriage and parenthood likely contribute to this deeper engagement, as these individuals seek guidance and community within established religious frameworks.
 
@@ -296,5 +303,12 @@ In Indonesia, where religion profoundly influences moral and social values, thes
 
 Husein Ja’far Al Hadar’s perspective emphasizes the importance of finding deeper meaning beyond formal religious practices, advocating for a spirituality that enriches daily life and supports individuals in both their outward religious observances and inner spiritual journeys. This balanced approach may resonate with Millennials, who are returning to ritual as they age, and with Gen Z, who are seeking a spirituality that aligns with their individual needs and experiences.
 
-
 ## Embracing Change While Celebrating Heritage
+The evolving relationship between Indonesia’s Millennials and Gen Z with their faith, gender roles, and financial independence reflects the broader societal shifts taking place in the country. Both generations continue to find comfort, moral guidance, and gratitude in their faith, but their approaches to religious practice differ significantly based on location and life stage. Millennials, especially in smaller towns, maintain consistent religious rituals, while Gen Z, particularly in urban areas, engages with spirituality more flexibly and occasionally.
+
+At the same time, the shifting dynamics in family life are redefining traditional gender roles. The once-dominant image of the father as the sole breadwinner is gradually giving way to a more balanced sharing of responsibilities between men and women. While Millennials are carefully navigating the balance between tradition and modern expectations, Gen Z is more willing to break the mold, seeking to redefine family life with a more equitable approach. This transition requires substantial support, including affordable childcare, work-life balance policies, and cultural acceptance of shared responsibilities.
+
+**Financial independence also reflects this generational shift. Millennials focus on stability through budgeting and financial planning, while Gen Z prioritizes long-term security through investing and wealth building. Both generations recognize the value of diversifying income, with side jobs and entrepreneurship playing key roles in their financial strategies.**
+
+As Indonesia continues to modernize, it is essential to support these evolving needs while honoring the traditions that have long been the foundation of its society. By fostering an environment that balances tradition with modern realities, Indonesia can ensure that its families not only survive but thrive, making gender equality and financial independence tangible realities.
+
