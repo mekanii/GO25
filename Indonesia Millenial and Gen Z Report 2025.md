@@ -63,7 +63,7 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 
 *Multiple-response questionnaires allow the total result to exceed 100%
 
-> How Millennials & Gen Z Respond to Gender Shifting Roles in Family
+> #### How Millennials & Gen Z Respond to Gender Shifting Roles in Family
 > | Millennials and Gen Z Perspectives on Gender Role Changes in Family Dynamics  | Millenials  | Gen Z |
 > |:----------------------------------------------------------------------------- | -----------:| -----:|
 > | Support with Traditional Safeguards                                           |         49% |   50% |
@@ -71,6 +71,7 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 > | Full Support for Balance                                                      |         39% |   48% |
 > | Concerned About Conflict                                                      |         31% |   29% |
 > | Traditional Role Preference                                                   |         27% |   24% |
+>
 > *This data represents 82% of Millennials and Gen Z who support gender equality
 
 However, a clear difference emerges in the degree of acceptance and enthusiasm for these changes. Millennials, though supportive of shifts in gender roles, tend to approach them with caution—48% indicate they need time to adjust. In contrast, Gen Z demonstrates a more progressive stance, with nearly half (48%) fully endorsing the belief that shifting gender roles can bring balance and happiness to the family. This generational gap underscores Gen Z’s reputation for being forward-thinking and adaptable, showing a greater willingness to embrace significant changes in household dynamics. Gen Z’s openness likely stems from broader exposure to global ideas of gender equality and a strong belief in the positive outcomes of such changes, whereas Millennials, despite their support, may still prefer the security of gradual adaptation and the comfort of traditional values.
@@ -93,23 +94,25 @@ To unlock these benefits, the Indonesian government could consider several key a
 - Launch awareness campaigns to emphasize the importance of childcare and the need for societal support for working women.
 
 ### Navigating Financial Independence Across Generations
-Top 3 Actions for Financial Independence in Family
-| Millennial and Gen Z Strategies for Achieving Financial Independence in Families  | Millenial | Gen Z |
-|:--------------------------------------------------------------------------------- | ---------:| -----:|
-| Increase Income                                                                   |       44% |   43% |
-| Share Financial Responsibilities                                                  |       39% |   39% |
-| Create Financial Budget                                                           |       34% |   34% |
 
-*Multiple-response questionnaires allow the total result to exceed 100%
+> #### Top 3 Actions for Financial Independence in Family
+> | Millennial and Gen Z Strategies for Achieving Financial Independence in Families  | Millenial | Gen Z |
+> |:--------------------------------------------------------------------------------- | ---------:| -----:|
+> | Increase Income                                                                   |       44% |   43% |
+> | Share Financial Responsibilities                                                  |       39% |   39% |
+> | Create Financial Budget                                                           |       34% |   34% |
+> 
+> *Multiple-response questionnaires allow the total result to exceed 100%
 
 As gender roles evolve, the strategies Millennials and Gen Z use to achieve financial independence are also shifting. Our data suggests that Millennials adopt a more balanced approach, placing slightly greater emphasis on both saving/investing and creating household budgets. With 39% of Millennials prioritizing budgeting compared to 34% of Gen Z, it’s clear that Millennials favor a more structured and organized method for managing their finances. This focus on budgeting underscores a generational preference for financial planning and structure, likely influenced by their current life stages and financial responsibilities.
 
 Additionally, both generations show a strong interest in increasing income through side jobs or small businesses, with 43% of Gen Z and 44% of Millennials employing this strategy. This shared approach reflects a recognition across generations of the importance of diversifying income sources in today’s economic environment. However, the slight differences in financial priorities reveal a generational divide: Gen Z leans more toward investing and wealth accumulation as key strategies for long-term financial security, while Millennials focus more on budgeting and financial planning to achieve stability and independence.
 
-Millennials and Gen Z Diverse Paths to Financial Independence:
-- Both Millennials and Gen Z acknowledge the importance of saving and investing as essential strategies for building financial security. Gen Z, in particular, prioritizes these actions, reflecting their focus on long-term wealth accumulation.
-- Across generations, there is a strong interest in supplementing income through side hustles or entrepreneurship. This approach allows families to diversify their income streams and mitigate financial risk.
-- Millennials, more so than Gen Z, emphasize the importance of budgeting. By organizing their finances through budgeting, families can better manage their expenses, plan for the future, and ensure financial stability.
+>Millennials and Gen Z Diverse Paths to Financial Independence
+>
+>> Both Millennials and Gen Z acknowledge the importance of saving and investing as essential strategies for building financial security. Gen Z, in particular, prioritizes these actions, reflecting their focus on long-term wealth accumulation.
+>>Across generations, there is a strong interest in supplementing income through side hustles or entrepreneurship. This approach allows families to diversify their income streams and mitigate financial risk.
+>>Millennials, more so than Gen Z, emphasize the importance of budgeting. By organizing their finances through budgeting, families can better manage their expenses, plan for the future, and ensure financial stability.
 
 ### Opening Doors for Women’s Empowerment and Growth
 Kalis Mardiasih highlights that daycare services are not just a modern innovation but a continuation of Indonesia’s cultural legacy. In many communities, children have traditionally been raised collectively—not just by their parents, but also by grandparents, neighbors, and extended family members. As more women enter the workforce, expanding access to daycare is essential for promoting gender equality. However, it is vital to ensure that these services are accessible to everyone, regardless of their location. By embracing and expanding daycare, Indonesia can honor its tradition of communal caregiving while empowering women to pursue their professional goals without compromising their roles as mothers.
