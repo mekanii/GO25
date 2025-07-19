@@ -262,10 +262,10 @@ A notable example of this shift is the YouTube program “Log In,” hosted by H
 > During his recent visit to Indonesia in September 2024, His Holiness Pope Francis emphasized the importance of 
 religious harmony and the practice of tolerance within Indonesian society.
 >> ”Harmony within diversity is achieved when every ethnic group and religious denomination acts in a spirit of brotherhood, while pursuing noble goals by serving the common good.”
-
+>
 >> ”Most of humanity is marginalized, lacking the means to live a dignified life and without protection from the growing and serious social inequality.”
-
+>
 >> ”The phenomenon of dehumanization that manipulates religion to perpetuate violence and bloody conflict, as well as the rampant exploitation of the environment that has led to a climate crisis, must be fought together by religious communities around the world.”
-
+>
 >> ”Prejudices can be eradicated, and an atmosphere of mutual respect and trust can grow. This is crucial to face our common challenges, including the fight against extremism and intolerance.”
 ## Embracing Change While Celebrating Heritage
