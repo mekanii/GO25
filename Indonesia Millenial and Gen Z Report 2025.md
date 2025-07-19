@@ -52,7 +52,7 @@ Despite these advancements, the double burden of domestic responsibilities often
 Our data shows that both Gen Z and Millennials maintain a deep respect for traditional values, particularly concerning evolving gender roles within the family. While 82% of both generations support gender equality, backing changes in gender roles as long as they don’t disrupt existing traditions, it’s clear that preserving cultural norms remains a significant concern for both groups. This highlights that, while there is growing acceptance of gender role evolution, there is also a strong inclination to maintain a connection to established cultural practices. This delicate balance between embracing modernity and honoring tradition underscores the thoughtful and nuanced approach both generations take toward changes in family structures.
 
 | Levels of Support and Involvement in Gender Equality Initiatives                |     |
-| ------------------------------------------------------------------------------- | ---:|
+|:------------------------------------------------------------------------------- | ---:|
 | Talk to family and friends about the importance of gender equality              | 38% |
 | Not actively involved in gender equality advocacy, but supports its principles  | 36% |
 | Support companies and organizations committed to gender equality                | 29% |
@@ -66,7 +66,7 @@ Our data shows that both Gen Z and Millennials maintain a deep respect for tradi
 #### How Millennials & Gen Z Respond to Gender Shifting Roles in Family
 
 | Millennials and Gen Z Perspectives on Gender Role Changes in Family Dynamics  | Millenials  | Gen Z |
-| ----------------------------------------------------------------------------- | -----------:| -----:|
+|:----------------------------------------------------------------------------- | -----------:| -----:|
 | Support with Traditional Safeguards                                           |         49% |   50% |
 | Gradual Acceptance                                                            |         48% |   43% |
 | Full Support for Balance                                                      |         39% |   48% |
