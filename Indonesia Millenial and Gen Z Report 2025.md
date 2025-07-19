@@ -93,14 +93,16 @@ Additionally, both generations show a strong interest in increasing income throu
 #### Millennials and Gen Z Diverse Paths to Financial Independence
 > Both Millennials and Gen Z acknowledge the importance of saving and investing as essential strategies for building financial security. Gen Z, in particular, prioritizes these actions, reflecting their focus on long-term wealth accumulation.
 
->Across generations, there is a strong interest in supplementing income through side hustles or entrepreneurship. This approach allows families to diversify their income streams and mitigate financial risk.
+> Across generations, there is a strong interest in supplementing income through side hustles or entrepreneurship. This approach allows families to diversify their income streams and mitigate financial risk.
 
->Millennials, more so than Gen Z, emphasize the importance of budgeting. By organizing their finances through budgeting, families can better manage their expenses, plan for the future, and ensure financial stability.
+> Millennials, more so than Gen Z, emphasize the importance of budgeting. By organizing their finances through budgeting, families can better manage their expenses, plan for the future, and ensure financial stability.
 
 ### Opening Doors for Women’s Empowerment and Growth
 Kalis Mardiasih highlights that daycare services are not just a modern innovation but a continuation of Indonesia’s cultural legacy. In many communities, children have traditionally been raised collectively—not just by their parents, but also by grandparents, neighbors, and extended family members. As more women enter the workforce, expanding access to daycare is essential for promoting gender equality. However, it is vital to ensure that these services are accessible to everyone, regardless of their location. By embracing and expanding daycare, Indonesia can honor its tradition of communal caregiving while empowering women to pursue their professional goals without compromising their roles as mothers.
 
-> “Daycare isn’t just a modern necessity; it’s deeply connected to our tradition of families and communities raising children together. As more women enter the workforce, ensuring accessible daycare becomes essential not only for gender equality but also for empowering families to make informed financial decisions. Expanding these services supports women in their careers, while families can plan their finances with greater confidence, knowing their children are well cared for” — Kalis Mardiasih, an Opinion Writer and Young Nahdlatul ‘Ulama (NU) Activist.
+> **“Daycare isn’t just a modern necessity; it’s deeply connected to our tradition of families and communities raising children together. As more women enter the workforce, ensuring accessible daycare becomes essential not only for gender equality but also for empowering families to make informed financial decisions. Expanding these services supports women in their careers, while families can plan their finances with greater confidence, knowing their children are well cared for”**
+>
+> — Kalis Mardiasih, an Opinion Writer and Young Nahdlatul ‘Ulama (NU) Activist.
 
 Investing in childcare is, fundamentally, an investment in Indonesia’s future. It supports working women, encourages greater involvement from husbands in household responsibilities, strengthens the economy, and fosters a more inclusive society. By taking these steps, the government can unlock Indonesia’s full potential and pave the way for a brighter, more equitable future.
 
@@ -126,7 +128,9 @@ Additionally, educational programs that prepare young people for the realities o
 
 Supporting women through education, financial opportunities, and legal protections is essential for reducing rising divorce rates and ensuring the well-being of all family members. Financial empowerment, in particular, plays a critical role in enabling women to leave unhealthy or abusive marriages and secure a better future for themselves and their families.
 
-> “We need strong support systems to help couples handle the pressures of modern life—things like accessible marriage counseling, community networks, and policies that support work-life balance. Educating young people on the realities of marriage, from communication to financial management, is key to building resilient relationships. It’s also crucial that government policies offer real financial incentives and protections, especially for women, so they have the resources and confidence to leave unhealthy or abusive marriages if needed” — Samanta Elsener, M.Psi., Psychologist & Writer.
+> **“We need strong support systems to help couples handle the pressures of modern life—things like accessible marriage counseling, community networks, and policies that support work-life balance. Educating young people on the realities of marriage, from communication to financial management, is key to building resilient relationships. It’s also crucial that government policies offer real financial incentives and protections, especially for women, so they have the resources and confidence to leave unhealthy or abusive marriages if needed”**
+>
+> — Samanta Elsener, M.Psi., Psychologist & Writer.
 
 ### A Collective Effort to Adapt to Changing Views on Marriage
 The rising divorce rates and changing nature of marriage in Indonesia present challenges that require a coordinated and proactive response. Policymakers, community leaders, and individuals must work together to create an environment that supports and strengthens marriages, recognizing the critical role they play in the fabric of society.
@@ -164,7 +168,9 @@ These values continue to shape family dynamics, demonstrating that while times c
 
 Sandra Ratnasari, Editor in Chief of Popmama.com, highlights the challenges that first-time parents often face when setting boundaries with older relatives involved in childcare. She points out that while respecting elders is a deeply rooted cultural value, it is equally important for young parents to have the space to navigate their own parenting journey. They need the freedom to establish their routines, even if it involves a learning curve. According to Ratnasari, finding a balance between honoring tradition and embracing modern parenting practices is essential for maintaining family harmony and ensuring that cultural values remain relevant in today’s world.
 
-> “Respect for elders is essential in our culture, but young couples should have the freedom to discover their own approach to parenting, even as they learn through experience. Balancing the respect for tradition with the flexibility for modern parenting is key to maintaining family harmony” — Sandra Ratnasari, Editor in Chief of Popmama.com.
+> **“Respect for elders is essential in our culture, but young couples should have the freedom to discover their own approach to parenting, even as they learn through experience. Balancing the respect for tradition with the flexibility for modern parenting is key to maintaining family harmony”**
+>
+> — Sandra Ratnasari, Editor in Chief of Popmama.com.
 
 ### Guiding Children in the Digital Age
 
@@ -189,6 +195,27 @@ Only 9% of parents choose to completely avoid the use of technology for educatio
 Notably, there is a slight increase among Gen Z parents in big cities (12%) who avoid technology compared to those in smaller cities (8%). This may suggest a counter-trend where some urban parents, possibly concerned about the overuse of technology, are opting to keep their children’s education tech-free.
 
 Allowing children to use technology freely is the least popular strategy, chosen by only 8% of Millennials and Gen Z parents. Millennials in big cities show a slightly higher preference at 9%, while those in smaller cities are at 8%. Among Gen Z parents, 8% in big cities allow free technology use, compared to just 5% in smaller cities. The data suggests a general consensus among parents of both generations, across different city sizes, that unrestricted access to technology is not advisable.
+
+### Strengthening Urban Family Connections in a Changing Society
+The insights from this data underscore the importance of reinforcing family support systems, particularly in urban areas where traditional bonds may be weakening. In smaller cities, where gotong-royong remains deeply ingrained, parents often find it easier to incorporate communal childcare into their daily lives. However, in bustling urban centers, maintaining this sense of community is more challenging, leading to a greater reliance on technology as a form of support—a clear departure from traditional practices.
+
+Danesya Mayra Juzar, founder of Productive Mamas & Mindtastic, reflects on the pivotal role technology now plays in family life and how it’s reshaping parent-child dynamics. She emphasizes that in today’s world, digital literacy isn’t just an extra skill—it’s a fundamental part of parenting. According to Danesya, children need to be tech-savvy, but they also need to understand the boundaries and responsibilities that come with it. She believes it’s about teaching them to use technology not just effectively but wisely. While technology offers tremendous benefits, it’s crucial to strike the right balance to avoid weakening the strong family ties that are central to Indonesian culture.
+
+> **“In urban settings, where life is fast-paced and screens are everywhere, it’s easy for family interactions to be overshadowed by digital distractions. Parents need to ensure that screen time doesn’t replace face-to-face time. By integrating digital tools with a mindful approach, we can help our children grow up in a world where technology enhances rather than diminishes our cultural and family values”**
+>
+> — Danesya Mayra Juzar, founder of Productive Mamas & Mindtastic
+
+### Preserving Family Bonds Amid Rapid Modernization
+As technology becomes an integral part of parenting, its role varies significantly depending on the environment, reflecting broader societal shifts in how traditional values are being adapted to modern realities.
+
+While the data reaffirms the strong family connections that define Indonesian society, it also highlights the subtle yet significant ways in which urbanization is affecting these relationships. As Indonesia continues its journey toward modernization, it is crucial to address the challenges that urban living poses to family dynamics. By doing so, the cultural value of strong family ties can remain intact, evolving to meet the demands of contemporary life while preserving the social fabric that has been woven by generations of Indonesian families.
+
+### Finding Balance in Managing Kids’ Screen Time
+#### Millennial Parents
+> **Maria, 35 years old, Jakarta - Marketing Manager:**
+> “I’m committed to avoiding my kid becoming addicted to devices. I’m setting strict rules on screen time and focusing on educational content. My aim is to encourage my child to engage in more outdoor play and real-world interactions, fostering an appreciation for life beyond the screen.”
+
+#### Gen Z Parents
 
 ## Spirituality and Faith Guiding Indonesia’s Youth
 ## Embracing Change While Celebrating Heritage
