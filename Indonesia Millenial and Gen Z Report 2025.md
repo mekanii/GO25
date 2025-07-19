@@ -108,7 +108,7 @@ As gender roles evolve, the strategies Millennials and Gen Z use to achieve fina
 
 Additionally, both generations show a strong interest in increasing income through side jobs or small businesses, with 43% of Gen Z and 44% of Millennials employing this strategy. This shared approach reflects a recognition across generations of the importance of diversifying income sources in today’s economic environment. However, the slight differences in financial priorities reveal a generational divide: Gen Z leans more toward investing and wealth accumulation as key strategies for long-term financial security, while Millennials focus more on budgeting and financial planning to achieve stability and independence.
 
->Millennials and Gen Z Diverse Paths to Financial Independence
+>#### Millennials and Gen Z Diverse Paths to Financial Independence
 >
 >> Both Millennials and Gen Z acknowledge the importance of saving and investing as essential strategies for building financial security. Gen Z, in particular, prioritizes these actions, reflecting their focus on long-term wealth accumulation.
 >
