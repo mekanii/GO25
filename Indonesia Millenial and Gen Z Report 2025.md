@@ -1101,3 +1101,111 @@ Social media serves as both a tool and a challenge for Millennials and Gen Z. Wh
 The compulsive consumption of negative news, known as doomscrolling, exacerbates the mental health challenges faced by these generations. Continuous exposure to distressing global events, such as the ongoing crisis in Palestine, not only heightens anxiety but also amplifies local stressors. The pressure to engage in activism and conform to social expectations creates tension within communities and families, adding another layer of complexity to the mental health landscape of Millennials and Gen Z.
 
 As mental health challenges grow, Millennials and Gen Z are increasingly advocating for accessible mental health services and education. There is strong support for integrating mental health education into school curricula and expanding services at community health centers (Puskesmas). The rise of mindfulness practices and community-driven support systems reflects a growing recognition of the importance of mental well-being. Addressing these needs through comprehensive government initiatives and reducing stigma are critical steps toward improving mental health outcomes for these generations.
+
+# CHAPTER 06 MEDIA CONSUMPTION
+## Web Media Portals is Still the Go-To News Source for Indonesia’s Gen Z and Millennials
+> **47% of Millenials and Gen Z**<br>
+> use websites and news portals as their primary source for news updates
+
+Web media portals continue to be a key news source for both Gen Z and Millennials in Indonesia, underscoring their preference for digital media consumption. Recent data shows that 47% of respondents overall rely on websites and news portals for their updates, with this trend particularly strong among Gen Z, where 49% turn to these platforms for information. Millennials also exhibit significant engagement with digital news, especially in smaller cities, where reliance on web media portals rises to 50%. This growing trend highlights how online platforms are increasingly meeting the demand for quick, convenient, and varied access to information.
+
+As internet connectivity improves across Indonesia, web media portals are solidifying their role as the go-to source for news, providing culturally relevant content tailored to the diverse needs of the Indonesian audience. These digital platforms offer a range of information that aligns with the fast-paced lifestyle of today’s consumers, making them an essential part of the media landscape. Their ability to deliver real-time updates and cover a wide array of topics ensures they remain a vital component of how Gen Z and Millennials stay informed in a constantly changing world.
+
+## Trust and Creativity in Nomad Media
+A new breed of media, known as “nomad media,” is making waves by blending the creativity of content creators with the credibility of traditional journalism. These channels exist solely on social media platforms to provide breaking news, discuss viral issues, and offer live reporting. Often accompanied by a blue tick, which suggests they are credible sources of information, nomad media is gaining traction among Millennials and Gen Z. These platforms excel at combining engaging storytelling with solid journalistic standards, appealing to younger audiences who value both authenticity and interactivity. Unlike traditional media, which often repurposes content for social channels, nomad media is inherently digital, crafting stories specifically for platforms like Instagram, TikTok, and YouTube. By using techniques popularized by influencers—such as personal stories, behind-the-scenes looks, and interactive features—nomad media makes journalism more engaging and relatable.
+
+By mixing the flair of content creators with the rigor of journalism, nomad media offers a fresh alternative to both conventional media and less reliable social influencers. These platforms utilize advanced storytelling tools like immersive videos, interactive graphics, and real-time updates while ensuring their content is well-researched and accurate. For Indonesian Millennials and Gen Z, this approach is particularly appealing as it blends dynamic multimedia content with the reassurance of credibility. As nomad media continues to grow, it signals a significant shift in how news is consumed, offering a reliable, engaging source of information that fits seamlessly into the fast-paced, digital lives of younger generations. This rise also indicates a broader trend where the lines between content creation and journalism are blurring, suggesting that traditional media might start collaborating with nomad media or adopt similar strategies to stay relevant.
+
+### Leading Voices in the Nomad Media Movement
+### Building Trust in a Digital World: The Impact of Verified Accounts
+## Redefining Media Consumption with Gen Z
+## How Young People Use Social Media
+### Social Awareness as a Hallmark of Today’s Youth
+### TikTok’s Transformation & Opportunities
+### The Authentic Edge of Gen Z
+### Live Streaming: Embracing the Spirit of Youthful Expression
+### User-Generated Content: Empowering the Voices of a New Generation
+### Balancing Entertainment with Information
+### The Power of Memes in Communicating Complex Ideas
+### Understanding How Brands Are Perceived on Social Media
+### Tackling Misinformation and Hoaxes in the Digital Age
+### Balancing Life Online and Offline
+### Overcoming Negativity and Handling “Haters” on Social Media
+## Social Media’s Role in Shaping Trends
+### Spotting Emerging Trends in the Algorithm Era
+
+### Successful Strategies for Thriving in the Algorithm-Driven World
+To navigate the trend-driven landscape shaped by social media algorithms, consumers, content creators, and brands in Indonesia must adopt strategic approaches. Consumers should be mindful of impulse buying, focus on quality and sustainability, and personalize trends to fit their long-term goals. Content creators can stand out by leveraging viral trends creatively, engaging with their audience, and maintaining authenticity to build genuine connections. For brands, the key is to adapt quickly to emerging trends while balancing trendiness with sustainability. Utilizing lo-fi marketing strategies and collaborating with like-minded creators can maximize impact. By understanding and responding to these dynamics, all parties can effectively engage with Indonesian Millennials and Gen Z in a rapidly evolving digital environment.
+
+| Category                                                                                                  |
+|:--------------------------------------------------------------------------------------------------------- |
+| **Be Mindful of Impulse Buying:**<br>Assess if a product truly meets your needs before purchasing.        |
+| **Prioritize Quality and Sustainability:**<br>Focus on durable, ethically produced items.                 |
+| **Personalize Trends:**Adapt trends to fit your personal style and needs, customizing them for longevity. |
+
+A prime example of how trend-driven algorithms impact entertainment is Netflix’s personalized recommendation system. This advanced algorithm tailors content suggestions to individual preferences by analyzing user behavior, including viewing history and interaction patterns. For Millennials and Gen Z, who value personalized experiences, this system enhances user engagement by making content discovery more intuitive and relevant. By focusing on viewers’ likes, Netflix reduces the time spent searching for shows and increases time spent enjoying content that resonates.
+
+However, the focus on personalization also brings challenges, particularly the risk of algorithmic bias and the creation of “filter bubbles.” As Netflix’s algorithms refine their recommendations based on existing preferences, users may find themselves exposed predominantly to content that reaffirms their current tastes, potentially narrowing their media diet. This can reinforce existing biases and limit the discovery of diverse perspectives. To address this, Netflix is working to balance personalization with diversity in its content offerings. For example, its strategy in Indonesia includes a focus on socially relevant themes such as mental health and gender equality, reflecting a commitment to authenticity and representation. This approach not only caters to evolving viewer expectations but also supports broader societal conversations, ensuring that while users receive tailored recommendations, they are also encouraged to explore a wider range of content.
+
+> **“Netflix’s algorithm goes beyond merely presenting preferred content; it curates a unique viewing experience tailored to individual tastes. It functions like a personal curator, anticipating preferences and delivering the most relevant content precisely when it is desired”**
+>
+> — Putri Silalahi, Head of PR, Netflix Indonesia
+
+## From Scroll to Shop: How Social Media Drives Consumer Behavior
+Social media algorithms have reshaped how Indonesian Millennials and Gen Z engage with trends, affecting everything from shopping habits to lifestyle choices. Platforms like Instagram and TikTok have fostered a culture of instant gratification, where affiliate marketing and targeted ads drive impulse buying. This environment encourages fast fashion and frequent wardrobe updates, even amid rising sustainability concerns. However, a shift towards thrift shopping and second-hand products is gaining momentum in Indonesia, with platforms like Huntstreet, Tinkerlust, and Banananina becoming increasingly popular. Influencers play a crucial role in promoting these eco-friendly options, making thrift store e-commerce a mainstream trend that resonates with younger generations seeking both style and sustainability.
+
+> **Social commerce, on track to hit $1.3 trillion globally, is rapidly driving trend adoption in fashion, tech, and beauty**
+
+Advancements in social media algorithms and e-commerce have transformed how Indonesian Millennials and Gen Z engage with fashion and lifestyle trends. Platforms like Instagram and TikTok drive impulse buying through affiliate marketing and real-time targeted ads, effortlessly weaving product recommendations into social media feeds. This creates an environment of instant gratification, where products reach consumers at just the right moment, encouraging quick and often impulsive purchases.
+
+### Circular Fashion: A New Definition of Sustainability
+Chitra Subyakto, founder of Sejauh and Studio Sejauh, acknowledges that while younger generations are increasingly interested in sustainable shopping, there is a clear divide in their priorities. Some are truly committed to making eco-friendly choices, while others prioritize aesthetics, seeing sustainability as an added bonus rather than a core value. This split highlights a significant opportunity to integrate sustainable values more deeply into everyday consumer habits. Chitra takes this challenge head-on, redefining “sustainability” as “responsibility” —a practical approach focused on reducing harm rather than achieving an unrealistic ideal of zero impact.
+
+### Redefining What It Means to Be a Trendsetter Today
+Social media algorithms have significantly reshaped how Indonesian Millennials and Gen Z interact with trends, impacting everything from their shopping habits to their lifestyle choices. Platforms like Instagram and TikTok have nurtured a culture of instant gratification, where targeted ads and affiliate marketing encourage impulsive shopping. While this drives fast fashion and frequent wardrobe changes, there is also a growing shift towards thrift shopping and second-hand products. In Indonesia, platforms like Huntstreet, Tinkerlust, and Banananina are becoming increasingly popular. Influencers play a key role in promoting these sustainable options, making thrift store shopping a mainstream trend among younger generations who seek both style and sustainability
+
+> **“We’re thankful for our communities, both online and offline. It’s inspiring to see people on IG Stories discussing circular fashion when they mention us, not just our products. This shows they truly understand our message. While this growing interest in the story behind our products is a positive sign, we still have more to do to promote responsible practices, encourage user-generated content, and deepen conversations about our brand’s values”**
+>
+> – Chitra Subyakto, Founder of Sejauh Mata Memandang
+
+Social media, particularly Instagram, has emerged as a powerful tool for brands like Sejauh Mata Memandang to engage with their audience and make sustainability both appealing and accessible. This is not just about spreading awareness—it’s about fostering a genuine shift in mindset and behavior. By leveraging these platforms for storytelling and transparency, brands can build communities that advocate for sustainable values. While digital engagement is certainly driving change, there is still much more potential to deepen these conversations and enhance their impact.
+
+### The Five Pillars of Circular Fashion
+- Repair
+- Recycle
+- Reuse
+- Resell
+- Rewear
+
+Circular fashion is centered around five key principles: repair, recycle, reuse, resell, and rewear. Each step is crucial in pushing the fashion industry towards a more sustainable future. Encouraging consumers to repair their clothes can help break the cycle of fast fashion and reduce waste. Recycling old garments into new materials decreases the demand for virgin resources and reduces environmental impact. Reusing and upcycling foster creativity and innovation, turning discarded items into something new and valuable. Reselling extends the life of clothing, making sustainable fashion more accessible and challenging the notion that everything must be brand new. Rewearing clothes challenges the pressure to constantly have something new, promoting a shift towards valuing longevity and versatility in fashion.
+
+### Minimalism as a Counter-Trend Among Young People
+In response to the overload of fast fashion and consumerism, a minimalist trend is gaining ground among Millennials and Gen Z. Movements like #CapsuleWardrobe2024 promotes owning fewer, high-quality pieces that offer versatility and encourage thoughtful choices over quantity. This minimalist mindset appeals to those who wish to simplify their lives and minimize their environmental footprint.
+
+> **“A capsule wardrobe isn’t just about owning fewer clothes; it’s about making thoughtful choices that reflect your personal style and values. In a world overwhelmed by trends, focusing on quality and sustainability offers a sense of freedom and peace that’s truly timeless”**
+>
+> Cempaka Asriani, a fashion journalist and founder of SARE Studio
+
+Her journey towards a capsule wardrobe, driven by personal experiences and a commitment to sustainability, underscores the rising appeal of minimalism.
+
+### Building a More Inclusive Future in Fashion
+The launch of Studio Sejauh in 2024 was a significant step forward in Chitra’s vision for circular fashion, but it also highlighted areas that need further development. Designed as a collaborative hub, Studio Sejauh brings together artisans, designers, and brands to create products based on circular principles.
+
+> **“Studio Sejauh was born out of the need to connect those who want to produce responsibly with the artisans and resources that can help them do so”**
+>
+> – Chitra Subyakto, Founder of Sejauh Mata Memandang
+
+Despite the strides made in promoting circular fashion, many small brands and artisans still struggle to adopt responsible practices due to a lack of resources and knowledge. Bridging this gap is crucial for making circular fashion a more inclusive and widespread reality. Providing access to education, sustainable materials, and collaborative opportunities is key to fostering a community that values and implements circular principles.
+
+In summary, there’s a noticeable shift towards more sustainable habits, with thrift shopping and circular fashion gaining traction among younger generations who value both style and sustainability. This trend reflects a complex picture of modern shopping behaviors, where the desire for quick gratification meets a rising awareness of environmental impact. As these trends continue to evolve, it’s clear that the balance between convenience and conscious choices will play a crucial role in shaping the future of consumer behavior.
+
+## Redefining Media Habits For Indonesian Millennials and Gen Z
+Web media portals are a key news source for both Gen Z and Millennials in Indonesia, reflecting their shift toward digital consumption. This trend is especially strong among Gen Z, who frequently turn to these platforms for quick updates. Millennials, particularly in smaller cities, also engage heavily with online news, favoring the convenience and variety it offers. With improving internet access, these platforms have become vital in meeting the diverse informational needs of Indonesia’s audience.
+
+Nomad media is on the rise, captivating both Millennials and Gen Z by merging the creativity of content creators with the credibility of journalism. These digital-first platforms deliver compelling stories and real-time updates that resonate with younger audiences seeking authenticity and engagement. As these media channels grow, they are transforming news consumption, offering a fresh, interactive approach that aligns perfectly with the digital habits of today’s youth.
+
+In a world flooded with information, the blue tick on social media once symbolized credibility. However, as its meaning has shifted, media outlets are finding new ways to build trust by fostering genuine connections and transparency. This change reflects the values of Millennials and Gen Z, who are looking for real, meaningful interactions and reliable information, driving a positive shift toward more authentic communication.
+
+Social media trends are driving exciting changes in consumer behavior among Millennials and Gen Z. Platforms like TikTok and Instagram are leading to more spontaneous shopping through engaging ads and influencer recommendations, making discovering and purchasing new products easier and more enjoyable. This trend towards immediacy is not just about quick buys—it’s about connecting with brands in a fun and personal way, turning shopping into a more interactive and satisfying experience.
+
+At the same time, there’s a vibrant shift towards sustainability and conscious consumption. Influencers are championing thrift shopping and second-hand fashion, and platforms like Huntstreet, Tinkerlust, and Banananina are gaining popularity among eco-conscious consumers. This trend highlights a growing desire to combine style with sustainability, as Millennials and Gen Z look to make choices that reflect their values while still staying fashionable and on-trend.
