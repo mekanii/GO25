@@ -349,10 +349,10 @@ On the other hand, Millennials report that their income is often insufficient to
 ### Adjusting to a New Normal with Extra Income Streams
 | Income-Boosting Strategies          | Overall (%) | Gen Z (%) | Millennials (%) |
 |:------------------------------------|------------:|----------:|----------------:|
-| Taking on a Side Job                |        46   |      43   |            50 ↑ |
-| Engaging in Online Selling          |        29   |      32 ↑ |            25   |
-| Seeking Higher-Paying Jobs          |        28   |      34 ↑ |            23   |
-| Exploring Investment Oppurtunities  |        25   |      28 ↑ |            23   |
+| Taking on a Side Job                |        46   |        43 |            ↑ 50 |
+| Engaging in Online Selling          |        29   |      ↑ 32 |              25 |
+| Seeking Higher-Paying Jobs          |        28   |      ↑ 34 |              23 |
+| Exploring Investment Oppurtunities  |        25   |      ↑ 28 |              23 |
 
 As the economic pressures of rising living costs and stagnant wages continue to challenge financial stability, both Millennials and Gen Z in Indonesia are increasingly seeking out additional income streams to maintain their financial security. This trend reflects a broader strategic response to the current economic environment, where traditional salaries are no longer sufficient to cover daily expenses and long-term financial goals.
 
