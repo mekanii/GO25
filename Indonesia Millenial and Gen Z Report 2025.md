@@ -921,8 +921,181 @@ Despite the optimism surrounding these educational reforms, concerns remain abou
 
 As AI and automation continue to reshape Indonesia’s job market, the importance of a balanced approach to technological adoption becomes increasingly evident. While there are concerns about job displacement, the potential for new opportunities in emerging fields is significant. By focusing on a blend of technical and soft skills, supported by strong government and corporate initiatives, Indonesia’s youth can harness these advancements to their advantage. The path forward lies in embracing these changes, ensuring that the next generation is not only prepared for today’s challenges but also poised to lead in the world of tomorrow.
 
-<!-- 
+# CHAPTER 04 Mental Health and Wellbeing
+## How Global Events Impact Mental Well-Being
+Millennials and Gen Z are often dubbed “the anxious generation,” grappling with an array of intense challenges including global crises, economic instability, and environmental concerns—all of which heavily impact their mental health. Over half (55%) of respondents cite economic instability as a major source of anxiety, underscoring the necessity for a holistic mental health approach that addresses these broader global and social issues.
+
 <p align="center">
-  <img src="assets/image/.png" alt="">
+  <img src="assets/image/54.png" alt="factors-contributing-to-stress">
 </p>
--->
+
+In Indonesia, Millennials and Gen Z are increasingly conscious of the mental strain caused by their always-on digital lives, constantly inundated with news, social media, and endless online content. Unlike previous generations, they are more transparent about these struggles, actively seeking support and prioritizing mental health. This shift signals the need for brands, governments, and communities to adopt more comprehensive wellness strategies that go beyond fitness and diet. As stress levels rise, many are turning to professional help, self-care, physical exercise, and creative outlets to cope.
+
+Mindfulness practices, especially Vipassana meditation, are gaining traction as a way to escape the chaos and focus on the present—a much-needed relief for a generation overwhelmed by modern pressures. Meditation retreats, such as those at the Vipassana International Academy in Jakarta or Dhamma Java in Central Java, are becoming increasingly popular for this reason.
+
+For nearly half of Millennials and Gen Z, self-care routines, regular physical activity, and creative pursuits are key stress-management tools, particularly in urban areas. Creative outlets, embraced by 35%, provide a meaningful way to express emotions and find relief, with Gen Z showing a stronger preference for them compared to Millennials. This focus on mindfulness, creativity, and community support highlights how these generations are adopting a holistic approach to managing their mental health.
+
+Mindfulness has transcended its religious roots, becoming a mainstream lifestyle practice that helps people achieve mental clarity, reduce stress, and enhance overall well-being. Bhante Dhirapuñño’s teachings emphasize that our minds shape our reality, and meditation is a way to deeply connect with oneself. Whether spiritual or not, the benefits of meditation are universal, offering peace and balance in daily life.
+
+> **“Meditation is far more than a relaxation technique; it’s a profound practice that combines deep self-reflection with the wisdom it nurtures. The Buddha taught that meditation is a vital path for anyone seeking freedom from suffering, and its power to change lives is available to everyone, no matter their beliefs”**
+>
+> — Bhante Dhirapuñño, a respected Buddhist Monk
+
+## Connecting Mindfully in a Digital Age
+In Indonesia, where social media is deeply ingrained in daily life, Millennials and Gen Z are increasingly embracing digital detox movements. They are becoming more aware of the negative effects of excessive screen time, such as digital fatigue, anxiety, and burnout. Rather than abandoning technology altogether, they seek a healthier balance. Many are experimenting with “Unplugged Sundays” or attending retreats to disconnect from their devices. This shift is about reclaiming control over their time and mental health, potentially altering how they engage with both digital and traditional media, pushing for a more thoughtful and selective approach.
+
+### Managing Anxiety Amid the Challenges of Cancel Culture
+<p align="center">
+  <img src="assets/image/55.png" alt="how-gen-z-and-millennials-handle-online-threats">
+</p>
+
+Millennials and Gen Z are navigating the complexities of online spaces with a blend of caution and savvy. Confronted with potential conflict and threats, over half choose to avoid heated topics altogether, aware of the emotional toll of digital confrontations. At the same time, they are not merely passive; 51% are actively setting stricter privacy controls to protect their personal lives from prying eyes. Many also use block and mute functions to silence those who cross boundaries, creating a safer digital environment on their terms. This reflects a generation that is both aware of the risks and empowered to take control of their online interactions.
+
+### Finding Ways to Disconnect in an Always-Connected World
+<p align="center">
+  <img src="assets/image/56.png" alt="millennials-and-gen-z-struggle-to-disconnect-vs-trying-to-reduce-screen-time">
+</p>
+
+As Millennials and Gen Z continue to scroll through endless streams of distressing content, they find themselves trapped in a cycle of doomscrolling that intensifies their anxiety and fosters a pervasive sense of helplessness. The struggle to disconnect from the world’s problems, magnified by their digital presence, becomes a significant mental health challenge. Continuous exposure to negative news creates a feedback loop that is difficult to break, leaving individuals feeling compelled to stay informed while becoming increasingly overwhelmed by what they see. The mental health toll of this cycle is profound, leading to a persistent state of stress that is hard to alleviate without conscious efforts to unplug and find balance.
+
+### Overcoming the Pressure of Chasing Perfection
+<p align="center">
+  <img src="assets/image/57.png" alt="the-illusion-of-perfection-social-media-s-impact-on-millennials-and-gen-z">
+</p>
+
+The idealized portrayals on social media present significant challenges for Millennials and Gen Z, as 55% of Millennials and 65% of Gen Z acknowledge the harm these standards cause to their self-esteem and mental health. Despite recognizing the curated nature of these portrayals, both generations find themselves caught in a cycle of self-doubt, chasing a perfection that doesn’t exist.
+
+### Battling the Culture of Comparison and Finding Self-Worth
+<p align="center">
+  <img src="assets/image/58.png" alt="the-culture-of-comparison-social-media-s-impact-on-millennials-and-gen-z">
+</p>
+
+Social media’s culture of comparison deeply affects both Millennials and Gen Z, though it impacts them in slightly different ways. A significant 70% of Gen Z regularly compare their lives to others online, exacerbating feelings of anxiety and depression. Millennials aren’t far behind, with 58% admitting to similar behaviors. Despite being aware of the harm this comparison brings, 42% of Millennials and 30% of Gen Z struggle to break free from it. This relentless cycle, driven by curated perfection on social media, fuels a pervasive sense of inadequacy, contributing to mental health challenges across both generations.
+
+### Understanding the Risks of Seeking External Validation
+<p align="center">
+  <img src="assets/image/59.png" alt="social-media-validation-millennials-vs-gen-z">
+</p>
+
+Social media validation is a significant issue for both Millennials and Gen Z, with 52% of Millennials admitting to relying on likes, comments, and shares to influence their self-worth. A larger proportion of Gen Z—68%—report a strong dependence on social media validation, with only 32% recognizing the need to detach but struggling due to the addictive nature of these platforms. This comparison highlights the pervasive impact of social media on self-esteem and the ongoing battle to maintain a healthy relationship with online feedback.
+
+### Coping with the Emotional Weight of Global Suffering
+<p align="center">
+  <img src="assets/image/60.png" alt="impact-of-doomscrolling-on-millennials-and-gen-z">
+</p>
+
+Doomscrolling—the compulsive consumption of distressing news and ongoing crises—has exacerbated the mental health challenges faced by Millennials and Gen Z. In an era where information is constantly at their fingertips, these generations are often overwhelmed by the relentless stream of negative news and global crises. Whether it’s reports on climate change, political unrest, or public health emergencies, the nonstop exposure to adverse content exacerbates feelings of anxiety and helplessness. For those who are deeply empathetic, this constant barrage of bad news can be emotionally exhausting, contributing to a sense of despair and a loss of hope for the future. The mental health toll of doomscrolling is significant, as it perpetuates a cycle of anxiety that is challenging to escape.
+
+### Recognizing the Mental Health Impact of Global Conflicts
+<p align="center">
+  <img src="assets/image/61.png" alt="impact-of-the-ongoing-palestine-conflict-on-millennials-and-gen-z">
+</p>
+
+The ongoing crisis in Palestine is causing significant stress for Millennials and Gen Z in Indonesia, deeply affecting their mental health and social interactions. Among Millennials, 55% report feeling stressed by the local implications of these global crises, with 45% experiencing additional pressure to participate in boycott campaigns. Gen Z feels the impact even more acutely—68% say global issues like the Palestine conflict weigh heavily on their mental health, and 32% feel a strong compulsion to take action, which sometimes creates tension within their communities. The constant exposure to distressing news and imagery compels many to get involved, but it also adds another layer of emotional burden, making it hard to navigate these pressures.
+
+### Handling the Stress of Conforming to Societal Expectations
+<p align="center">
+  <img src="assets/image/62.png" alt="stress-of-conformity-millennials-and-gen-z">
+</p>
+
+In a world where social activism is increasingly visible and urgent, Millennials and Gen Z find themselves navigating a fine line between personal beliefs and societal expectations. Among Millennials, 58% feel the weight of conforming to social activism, often leading to stress and even conflict within their social circles. For Gen Z, the pressure is even more intense, with 65% feeling judged or ostracized if they don’t align with the dominant views in their communities, further amplifying their stress. Both generations struggle to balance their values with the demands of activism, with 42% of Millennials and 35% of Gen Z grappling with this internal conflict. The emotional toll of these social dynamics can be overwhelming, creating an environment where standing up for what you believe in often comes at the cost of personal peace.
+
+> **“The power of a boycott lies in its peaceful resistance, but it’s not the only path to protest. Every individual must choose the method that resonates with them, without imposing it as a measure of others’ morality. True activism respects the diversity of approaches, recognizing that all contributions, whether through boycotts or dialogue, are vital in the pursuit of justice,**
+>
+> – Husein Ja’far Al Hadar, Islamic Content Creator
+
+Husein Ja’far Al Hadar emphasizes that protest is a deeply personal act, and no one should dictate a single method as the standard of moral values or support. He advocates for individuals to choose forms of protest that align with their personal beliefs and sustain their energy, allowing them to continue making positive contributions to society
+
+### Embracing Diversity and Understanding Humanitarian Differences
+<p align="center">
+  <img src="assets/image/63.png" alt="impact-of-global-crises-on-humanitarian-and-religious-views">
+</p>
+
+The focus on global crises like the Palestine conflict has highlighted deepening divisions in humanitarian and religious views among Millennials and Gen Z. In Indonesia, 50% of Millennials feel that such global issues have intensified differences within their communities, with another 50% experiencing friction within their social and family circles due to varying interpretations. Among Gen Z, these effects are even more pronounced, with 60% noting clashes in their views on global issues with those around them, and 40% finding it difficult to navigate these complex differences. This divergence underscores the challenges that arise when global concerns intersect with personal and communal beliefs, often leading to tension and discord.
+
+## Changing Views on Survivors of Sexual Violence
+### Moving from Stigma to Support and Solidarity for Survivors
+<p align="center">
+  <img src="assets/image/64.png" alt="focus-on-reducing-mental-health-stigma-millennials-vs-gen-z">
+</p>
+
+In recent years, Millennials and Gen Z have taken the lead in shifting cultural attitudes toward sexual violence in Indonesia. These generations have used social media as a powerful tool to challenge the stigma and victim-blaming culture that often surrounds survivors. Their efforts are not just about creating a more supportive society but also about advocating for systemic changes that protect and empower those affected by sexual violence. This broader movement toward understanding and support is reflected in their approach to mental health as well. A survey shows that 37% of Gen Z prioritize reducing the stigma associated with mental health disorders, slightly higher than the 35% of Millennials who share this concern. This generational difference, though small, highlights a stronger commitment among Gen Z to addressing mental health issues, aligning with their broader advocacy for openness and well-being.
+
+<p align="center">
+  <img src="assets/image/65.png" alt="support-for-victims-of-sexual-violence-and-bullying-by-location-concern-for-assistance-to-victims-of-sexual-violence-and-bullying">
+</p>
+
+The passage of the UU TPKS (Sexual Violence Crimes Law) is a significant step forward in addressing sexual violence in Indonesia. However, the concern for assistance to victims remains high, with 45% of Millennials and 49% of Gen Z respondents believing that more needs to be done to ensure victims receive the protection and support they need. Millennials and Gen Z, particularly those in urban areas, are vocal in their calls for enhanced assistance. This data reflects a clear generational push for continued government action and the crucial role of NGOs, advocacy groups, and young activists in driving meaningful change. However, there is a noticeable gap in support between urban and rural areas. While 55% of Gen Z and 54% of Millennials in big cities express concern for victims of sexual violence and bullying, these numbers drop significantly in smaller cities, with only 43% of Gen Z and 35% of Millennials showing the same level of concern. This disparity underscores the need for more targeted outreach and education in less urbanized areas to bridge the gap in awareness and support.
+
+> **“When survivors reach out for help, they frequently find that the professionals they encounter lack the training to fully grasp the gendered nature of their trauma. Therapy must do more than just offer a space for healing—it must also be sensitive to the distinct realities these survivors live with, ensuring that the care they receive is both empathetic and appropriately targeted to their needs”**
+>
+> – Kalis Mardiasih, an opinion writer and young Nahdlatul ‘Ulama (NU) activist
+
+Kalis Mardiasih, an opinion writer and young Nahdlatul ‘Ulama (NU) activist, highlights a critical issue within mental health services for survivors of sexual violence. She points out that many mental health professionals lack the gender-sensitive training necessary to effectively support survivors, often leading to further harm instead of healing. According to Kalis, survivors need more than just a listening ear—they require support that deeply understands the gendered aspects of their trauma.
+
+Her perspective emphasizes the importance of providing the right kind of therapy, one that is survivor-centered and deeply attuned to the unique struggles faced by women and marginalized groups.
+
+## Government Efforts on Mental Health
+### Expanding Community Access to Mental Health Services
+<p align="center">
+  <img src="assets/image/66.png" alt="support-for-government-policy-on-mental-health-millennials-vs-gen-z">
+</p>
+
+Millennials and Gen Z are strong advocates for expanding mental health services in Indonesia, particularly at community health centers (Puskesmas). With 61% of respondents emphasizing the importance of providing consultation services with psychologists at Puskesmas, the public’s expectations for accessible and affordable mental health care are clear. This demand is particularly pronounced among Gen Z, where 63% support this initiative.
+
+> #### 51% Millenials and Gen Z
+> thinks access to affordable mental health services by the government must be increased
+
+The need for expanding access to affordable mental health services is a critical concern for both Millennials and Gen Z, with 51% of respondents stressing the importance of making these services more widely available. This data underscores the growing demand for mental health support in Indonesia, particularly within community health centers (Puskesmas). As Millennials and Gen Z increasingly recognize the importance of mental health, there is a clear call for the government to ensure that these services are accessible and affordable for all, especially in underserved areas.
+
+> #### 60% Millenials and Gen Z
+> thinks mental health is equally important as physical health
+
+Promoting mental health as being on par with physical health is a priority for 60% of respondents, with Gen Z showing particularly strong support. This generational shift in attitudes towards mental health underscores the importance of government-led campaigns to raise awareness and reduce stigma.
+
+> #### 50% Millenials and Gen Z
+> recognize the need of good coverage mental health issues under BPJS and other state health facilities
+
+Additionally, 50% of respondents recognize the need for good coverage of mental health issues under BPJS and other state health facilities, further emphasizing the importance of accessible care.
+
+> #### 45% Millenials and Gen Z
+> believe it is essential to encourage more individuals to seek help for mental health issues without fear of judgement
+
+Efforts to reduce stigma surrounding mental health issues, supported by 45% of respondents, are essential for encouraging more people to seek help without fear of judgment. By addressing these issues through targeted campaigns and policies, the government can create a more supportive environment for those dealing with mental health challenges.
+
+## The Power of Mental Health Campaigns
+### Making Mental Health Support Affordable and Accessible
+Access to affordable mental health services is a major concern, with 56% of respondents emphasizing the need for consultation services with psychologists at reasonable prices. This highlights the critical importance of affordability as a central element in any effective mental health policy
+
+> #### 56% Millenials and Gen Z
+> emphasize the need for affordable mental health services, highlighting affordability as a crucial element of effective mental health policy
+
+## Reducing Stigma Around Mental Health
+<p align="center">
+  <img src="assets/image/67.png" alt="support-for-mental-health-policy-gen-z-vs-millennials-in-big-and-smaller-cities">
+</p>
+
+The data reveals a significant urban-rural divide in support for mental health policies among Gen Z and Millennials. In larger cities, 67% of Gen Z and 62% of Millennials recognize the importance of government efforts that prioritize mental health, reflecting a strong emphasis on mental well-being in urban areas. However, support drops in smaller cities, where only 58% of Gen Z and 52% of Millennials back these initiatives. This disparity underscores the ongoing need to raise awareness and provide support in less urbanized regions, calling for tailored approaches to meet the unique challenges faced by individuals in both large cities and smaller communities.
+
+## Tackling Mental Health Issues at the Core
+### Addressing the Impact of Economic Strain on Mental Health
+- Socio Economic Related Anxiety
+- Job Related Anxiety
+- Social Media Induced Anxiety
+- Expectation Related to Academic Excellence
+
+Economic pressures on mental health hit hard in four main areas: socio-economic conditions, job stress, social media, and academic expectations. Socio-economic anxiety stems from concerns about financial stability and the growing sense of inequality. It’s not just about making ends meet; it’s about the underlying fear that the system itself isn’t fair. Job-related anxiety goes beyond job security; it’s about navigating a post-pandemic job market where uncertainty and pressure to perform are constant.
+
+Social media-induced anxiety arises from the persistent fear of not measuring up, amplified by the worry that one’s personal life might be exposed online. This digital stress is as real as any other form of anxiety. Academic-related anxiety is similarly intense, driven by the pressure to excel in exams and secure top university placements, with the burden of meeting high expectations feeling overwhelming. These four areas demonstrate how deeply economic pressures are woven into the mental health struggles of Indonesia’s Millennials and Gen Z, highlighting that these issues are not just individual—they are systemic, shaping how this generation perceives the world and their role within it.
+
+### Creating Safe and Supportive Environments for All
+Improving mental health requires more than individual interventions; it necessitates creating safe and supportive environments across families, schools, workplaces, and society at large. For families, this means fostering open communication and providing emotional support. Schools play a crucial role in raising awareness and offering counseling services, while workplaces must prioritize mental health by promoting work-life balance and providing mental health resources. At a societal level, public campaigns and accessible services are essential for creating a culture that values and supports mental well-being
+
+## Creating a Brighter Future for Mental Health
+Millennials and Gen Z are increasingly recognized as “the anxious generation,” profoundly affected by global crises like economic instability, social injustice, and climate change. The constant exposure to these stressors, with 55% of respondents identifying economic instability as a primary source of anxiety, highlights the need for a comprehensive approach to mental health that considers the broader global and social context.
+
+Social media serves as both a tool and a challenge for Millennials and Gen Z. While it facilitates connection, creativity, and activism, it also imposes unrealistic standards that lead to significant mental health issues. The pervasive illusion of perfection, the culture of comparison, and the reliance on external validation trap many young people in cycles of self-doubt and anxiety. Social media’s impact is deep, simultaneously empowering and isolating its users, further complicating their mental health struggles.
+
+The compulsive consumption of negative news, known as doomscrolling, exacerbates the mental health challenges faced by these generations. Continuous exposure to distressing global events, such as the ongoing crisis in Palestine, not only heightens anxiety but also amplifies local stressors. The pressure to engage in activism and conform to social expectations creates tension within communities and families, adding another layer of complexity to the mental health landscape of Millennials and Gen Z.
+
+As mental health challenges grow, Millennials and Gen Z are increasingly advocating for accessible mental health services and education. There is strong support for integrating mental health education into school curricula and expanding services at community health centers (Puskesmas). The rise of mindfulness practices and community-driven support systems reflects a growing recognition of the importance of mental well-being. Addressing these needs through comprehensive government initiatives and reducing stigma are critical steps toward improving mental health outcomes for these generations.
