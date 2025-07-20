@@ -400,7 +400,7 @@ Government initiatives like Kartu Prakerja offer some relief, but the middle cla
 >
 > — Samuel Ray, Content creator, Author, and Advocate for Frugal Living
 
-### Testimonials
+#### Testimonials
 > **Arief, 38, Jakarta**<br>
 > “Managing all household expenses for my parents and my own family is a big responsibility, but I’m comfortable with it. Even though the financial burden is significant, I’ve grown accustomed to it and take pride in providing for both households. The sense of accomplishment I feel from making sure everyone is well taken care of outweighs the challenges. It’s a lot of work, but knowing my family is happy and secure makes it all worthwhile.
 
@@ -468,8 +468,116 @@ These trends highlight a major shift in priorities, where Gen Z is more focused 
 For these Millennials and Gen Z, navigating an uncertain economic landscape means redefining what it means to build a life. Their approach highlights a pragmatic understanding of the realities they face, as they seek to create a more stable and sustainable foundation before embracing the responsibilities of marriage and family.
 
 This shift in priorities underscores a broader generational trend—Millennials and Gen Z are not just postponing family life; they are intentionally redefining their futures in response to the economic and environmental challenges they face. Their choices are driven by a need for security and sustainability, both financially and personally, as they navigate an increasingly complex and uncertain world.
-## Building a Strong Financial Future
 
+### Navigating the Challenges of Homeownership
+#### Major Obstacles to Homeownership
+<p align="center">
+  <img src="assets/image/19.png" alt="major-obstacles-to-homeownership">
+</p>
+
+Economic and job uncertainty stands as the most significant barrier to homeownership for Millennials and Gen Z in Indonesia, with 51% of respondents identifying it as their primary concern. The unpredictability of the job market and broader economic conditions makes it difficult for many to commit to the long-term financial obligations that come with buying a home. This concern is especially prevalent among younger generations, who are still in the early to mid-stages of their careers. The fear of job instability makes the idea of taking on a mortgage during uncertain times seem like a daunting risk, highlighting the need for greater job security to promote homeownership.
+
+High property prices driven by inflation present another substantial challenge, cited by 48% of respondents as a significant obstacle. As real estate prices continue to rise faster than wages, the dream of homeownership is becoming increasingly out of reach for many. In urban areas, where property prices have surged in recent years, younger generations are often forced to either consider homes in less desirable locations or delay their homebuying plans altogether. This situation underscores the urgent need for more affordable housing options to bridge the widening gap between earnings and the cost of real estate.
+
+Another major hurdle is the difficulty in saving enough for a down payment and related costs, with 39% of respondents highlighting this as a challenge. Accumulating the necessary savings is particularly tough for younger individuals who may still be managing student loans or other financial obligations. Rising living costs further complicate this challenge, leaving little room for significant savings. Without sufficient funds, potential homebuyers are left with limited options, such as taking on higher-interest loans or postponing their purchase. This scenario emphasizes the importance of financial planning and accessible saving strategies to help Millennials and Gen Z prepare for homeownership.
+
+High interest rates on loans, also driven by inflation, present another significant barrier, with 33% of respondents citing this as a key concern. As interest rates rise, the cost of borrowing increases, making mortgages less accessible. For younger generations already wary of taking on debt, high interest rates can be a significant deterrent in their homebuying journey. The impact of these rates is felt not just in the initial cost but also in the long-term affordability of a home, as higher monthly payments can strain household budgets. This challenge underscores the need for policies that stabilize interest rates and make borrowing more affordable for young homebuyers.
+
+#### How Millennials and Gen Z Are Tackling Homeownership
+<p align="center">
+  <img src="assets/image/20.png" alt="current-methods-of-house-ownership-among-millennials-and-gen-z-in-indonesia">
+</p>
+Data from our survey provides insight into how Millennials and Gen Z are navigating the challenges of homeownership in Indonesia. The findings reveal that a significant 52% of respondents have acquired their homes through inheritance or gifts from family, underscoring the crucial role of generational wealth and family support in the housing market. For many Indonesians, the ability to purchase a home independently remains financially out of reach.
+
+Only 18% of respondents have managed to buy their homes with their own savings, emphasizing the level of financial stability required to avoid relying on credit or loans. This relatively small percentage reflects the broader economic landscape, where few can afford to purchase a home outright without external assistance.
+
+Meanwhile, home loans such as KPR or KPA account for just 10% of home purchases, indicating limited access to credit or a reluctance to take on debt, likely due to high interest rates, unstable incomes, or other financial challenges. Additionally, 12% of respondents are still renting or living in temporary housing, reflecting the ongoing struggle to achieve homeownership.
+
+Furthermore, 6% of respondents continue to live with their parents, which may suggest financial constraints or a cultural preference for extended family living arrangements. Another 2% have borrowed from others to finance their home purchase, indicating that informal borrowing is not a common practice, possibly due to the associated risks.
+
+Overall, the data highlights the pivotal role of family support in homeownership and the significant economic hurdles that many Indonesians face in achieving this milestone on their own
+
+#### Key Considerations for Buying a Home
+<p align="center">
+  <img src="assets/image/21.png" alt="top-factors-considered-when-purchasing-a-house">
+</p>
+
+When it comes to buying a house, Millennials and Gen Z in Indonesia are primarily focused on financial stability, safety, and access to nearby amenities. For 63% of respondents, the most critical factor is the cost and budget, reflecting the financial constraints and economic realities they face as they aspire to homeownership.
+
+Close behind, 59% prioritize safety and neighborhood quality, underscoring the importance of secure and stable living conditions. This shows that for these generations, feeling safe at home is nearly as important as managing their finances.
+
+Additionally, 53% of respondents place significant value on nearby amenities and comfort, such as parks, shopping centers, and gyms. This indicates that they’re looking for more than just a house—they want a community that enhances their quality of life.
+
+Location also matters, with 49% considering it a key factor in their decision. Finally, 48% highlight the importance of infrastructure availability, like roads, public transport, and utilities, showing that practical concerns are top of mind for young homebuyers seeking a hassle-free living environment.
+
+#### Exploring Remote Work as a Path to Homeownership
+<p align="center">
+  <img src="assets/image/22.png" alt="influence-of-remote-work-on-housing-selection">
+</p>
+
+**Commuting has become a significant challenge for people living in Indonesia, particularly in large cities like Jakarta. Overcrowded public transportation during peak hours, combined with long commute times, has led to widespread dissatisfaction. The situation is even more challenging in rural and smaller cities, where public transportation infrastructure is often inadequate. As a result, personal vehicle ownership remains a necessity for many, further contributing to traffic congestion.**
+
+The shift towards remote work has significantly influenced how Millennials and Gen Z approach housing selection. Remote work has reduced the need for daily commutes, allowing for greater flexibility in choosing residential locations farther from city centers. This flexibility is particularly valued by Millennials, with 13% indicating that they prioritize this aspect when selecting a home. This generation is increasingly open to the idea that owning a private vehicle is no longer a primary necessity, reflecting their preference for locations that are less dependent on transportation.
+
+Conversely, 65% of Gen Z still consider owning a private vehicle as a primary need, suggesting that while they appreciate the flexibility remote work offers, they still value the convenience and freedom that comes with vehicle ownership. For 25% of respondents, the need for a private vehicle depends on specific situations and needs, indicating a balanced approach where mobility is considered but not necessarily prioritized.
+
+The shift in housing priorities is further underscored by the growing need for workspaces and technology that support remote work. This trend highlights the importance of having a home environment equipped with reliable internet and appropriate devices, which are essential for maintaining productivity in a remote work setting. Overall, the data suggests that remote work has not only changed how people think about where they live but also how they evaluate the importance of mobility and transportation in their daily lives. Gen Z appears to be leading the way in embracing this shift, while Millennials remain more cautious, balancing the benefits of remote work with the traditional need for private transportation.
+
+Remote work offers a potential solution to commuting challenges. Since the COVID-19 pandemic, remote work has gained popularity, allowing many to reduce or eliminate their daily commutes. This shift has also influenced housing preferences, with more people opting to live in suburbs or rural areas where housing is more affordable and spacious. The demand for homes with dedicated workspaces has risen, particularly among Millennials and Gen Z, who require environments that support their professional needs.
+
+### Navigating Financial Tools with Confidence
+Digital finance tools have become essential for Millennials and Gen Z in Indonesia, with four out of five individuals now utilizing digital finance applications. This widespread adoption is especially driven by Gen Z, who are at the forefront of incorporating these technologies into their everyday financial management. The user-friendly design and accessibility of these digital tools resonate with the tech-savvy habits of younger generations, making them a crucial component of contemporary financial practices.
+
+#### The Rise of Mobile Banking and E-Wallets Among Youth
+- **60% Prefer Mobile Banking**
+- **58% Use E-Wallets**
+
+As Millennials and Gen Z continue to reshape the financial landscape in Indonesia, their preferences for digital finance tools are becoming increasingly evident. A notable 60% of respondents have adopted mobile banking, while 58% regularly use e-wallets. This shift marks a clear move away from traditional banking methods, driven by the demand for more convenient, digital-first solutions. Mobile banking offers users the flexibility to manage their finances anytime, anywhere, aligning seamlessly with the fast-paced, on-the-go lifestyles of these generations. E-wallets, meanwhile, provide an effortless way to conduct transactions, perfectly fitting into the daily routines of those who prioritize speed and convenience.
+
+<p align="center">
+  <img src="assets/image/23.png" alt="comparison-of-top-of-mind-awareness-for-digital-banks">
+</p>
+
+When examining the brand preferences of these digital-savvy consumers, distinct differences between Gen Z and Millennials become apparent. Gen Z exhibits a strong preference for purely digital platforms, with 68% having top-of-mind awareness for SeaBank and 75% for blu by BCA Digital. These platforms align with Gen Z’s tech-forward mindset, offering the innovation and accessibility that they highly value.
+
+Millennials, however, show a slightly different tendency. Brands like Bank Jago, with 62% top-ofmind awareness, and Livin’ by Mandiri, leading at 88%, are more favored. These preferences indicate that Millennials may appreciate a combination of traditional banking reliability and the modern convenience of digital solutions. These brands have effectively transitioned into the digital space, offering the best of both worlds, which resonates well with Millennial consumers.
+
+<p align="center">
+  <img src="assets/image/24.png" alt="usage-of-selected-e-wallet-services">
+</p>
+
+The competitive landscape of e-wallets highlights the evolving preferences of Millennials and Gen Z in Indonesia. GoPay leads the market with an 88% usage rate, firmly establishing itself as a dominant player. Close behind, OVO and ShopeePay have strong footholds with usage rates of 79% and 77%, respectively, underscoring their significant presence in the e-wallet sector. Dana also holds a substantial share with 71% usage, while Doku, though still active, trails with a 48% usage rate. This data underscores the intense competition within the e-wallet market, where GoPay maintains its lead but faces close competition from other major players.
+
+As the financial behaviors of Millennials and Gen Z continue to evolve, it is evident that digital banking and e-wallets are not merely passing trends—they represent the future of finance in Indonesia. Each generation is forging its path, driven by distinct needs and values, yet both are leading the charge towards a more digital, interconnected financial ecosystem.
+
+#### Embracing QRIS as the Standard for Transactions
+<p align="center">
+  <img src="assets/image/25.png" alt="qris-usage-frequency-among-gen-z-and-millennials-top-reasons-why-millennials-and-gen-z-use-qris">
+</p>
+
+QRIS, which stands for Quick Response Code Indonesian Standard, is a National QR code standard designed to facilitate QR code payments in Indonesia. It was launched by Bank Indonesia and the Indonesian Payment System Association (ASPI) on August 17, 2019. 
+
+QRIS has become an integral part of daily life, especially for Gen Z, who rely on it more heavily than Millennials. This trend highlights the increasing preference for digital payments among younger demographics, though both generations show strong weekly usage, demonstrating QRIS’s widespread appeal for offline shopping.
+
+The reasons for its widespread adoption are clear: 63% of users favor QRIS for its seamless and user-friendly experience. Additionally, 57% of users appreciate the shift away from cash, aligning with the broader move towards digital wallets. Speed is another key factor, with 40% of users valuing the quick transaction times. Promotions and discounts available through QRIS also attract 37% of users looking for savings. While only 23% mention its availability across various locations, this aspect still contributes to the overall convenience and appeal of QRIS.
+
+
+#### Finding the Right Balance Between Security and Convenience
+##### Most Popular Fintech Lending Apps Among Young People
+##### What to Look for When Choosing a Fintech Lending App
+##### Why Online Loans Are Becoming Popular Among Youth
+#### Using Paylater Wisely to Manage Spending
+##### When and Why Millennials and Gen Z Use Paylater
+##### Managing Monthly Paylater Installments Effectively
+
+### Exploring New Investment Strategies for a Secure Future
+
+## Building a Strong Financial Future
+Millennials and Gen Z in Indonesia are navigating a complex financial landscape, characterized by traditional economic challenges and emerging threats, such as the rise of online gambling. Despite these difficulties, both generations have shown remarkable adaptability, embracing frugal living and diversifying their income streams to cope with rising living costs and stagnant wages. Their resilience underscores a strong determination to secure a stable financial future.
+
+**However, the increasing accessibility of online gambling presents a significant risk to their financial security. Yet, this challenge also offers an opportunity for positive change. By implementing stricter regulations and enhancing community education, we can empower these generations to make informed decisions and protect their financial well-being. Financial institutions play a crucial role in this effort by providing targeted education and resources that not only highlight the risks but also equip individuals with the tools to build and sustain financial health.**
+
+Looking ahead, a collaborative approach that includes government bodies, financial institutions, community leaders, and Millennials and Gen Z themselves is vital. By working together, we can create a more secure and informed financial environment, where these generations are not only shielded from new threats but are also empowered to thrive. This collective effort will ensure that Millennials and Gen Z continue to build financial independence and resilience, paving the way for a brighter and more secure future.
 
 
 <!-- 
