@@ -561,16 +561,86 @@ QRIS has become an integral part of daily life, especially for Gen Z, who rely o
 
 The reasons for its widespread adoption are clear: 63% of users favor QRIS for its seamless and user-friendly experience. Additionally, 57% of users appreciate the shift away from cash, aligning with the broader move towards digital wallets. Speed is another key factor, with 40% of users valuing the quick transaction times. Promotions and discounts available through QRIS also attract 37% of users looking for savings. While only 23% mention its availability across various locations, this aspect still contributes to the overall convenience and appeal of QRIS.
 
-
 #### Finding the Right Balance Between Security and Convenience
+- 72% Security and Privacy f Personal Data
+- 67% Features Tailored to User Needs
+- 64% Affordable Costs
+
+As digital finance tools become increasingly prevalent, user expectations are shifting, with 72% of users prioritizing the security and privacy of personal data, reflecting heightened concerns about digital safety in an ever-connected world. Additionally, 67% of respondents emphasize the importance of features tailored to their needs, underscoring a strong demand for personalized and user-friendly interfaces. Lastly, 64% of users highlight the significance of affordable costs, reinforcing the critical role that cost-effectiveness plays in the adoption of these tools.
+
+> **Understanding the Pros and Cons of Fintech Lending**<br>
+> In response to these financial challenges, both Millennials and Gen Z are increasingly turning to fintech lending as a strategy to manage their financial burdens. As digital finance continues to evolve in Indonesia, these generations are relying more on online loans to cover household expenses and support business ventures. The primary appeal of these services lies in the quick access to funds and the reliability provided by platforms regulated by the OJK (Otoritas Jasa Keuangan). This shift highlights the importance of accessibility, speed, and regulatory trustworthiness as these generations seek financial solutions that align with their specific needs.
+
 ##### Most Popular Fintech Lending Apps Among Young People
+<p align="center">
+  <img src="assets/image/26.png" alt="top-5-fintech-lending-applications-among-millennials-and-gen-z-in-indonesia">
+</p>
+
+Akulaku leads the fintech lending market with a commanding 33% share, reflecting its strong presence and widespread appeal among Millennials and Gen Z in Indonesia. Kredivo follows closely with a 20% share, demonstrating robust user engagement as a favored alternative. Easycash and Adakami hold 18% and 17% of the market, respectively, highlighting their competitive presence among younger users. Indodana, with a 12% share, serves a more niche yet significant segment of the market.
+
+This distribution underscores a competitive landscape where multiple platforms effectively cater to the diverse financial needs of Millennials and Gen Z. As these generations increasingly turn to digital lending solutions, Akulaku remains the market leader, while platforms like Kredivo, Easycash, and Adakami maintain strong positions, collectively shaping the fintech lending space in Indonesia.
+
 ##### What to Look for When Choosing a Fintech Lending App
+<p align="center">
+  <img src="assets/image/27.png" alt="key-considerations-for-choosing-a-fintech-lending-application">
+</p>
+
+The data highlights clear generational differences in fintech lending preferences. Millennials prioritize security and cost-effectiveness, favoring OJK licensing and competitive interest rates. In contrast, Gen Z places greater emphasis on convenience and speed, prioritizing quick fund disbursement and straightforward registration processes, even if it means compromising on some regulatory assurances. This trend reflects Gen Z’s focus on immediacy and ease in their financial activities.
+
 ##### Why Online Loans Are Becoming Popular Among Youth
+<p align="center">
+  <img src="assets/image/28.png" alt="motivations-for-taking-online-loans-by-generation">
+</p>
+
+The motivations for taking online loans reveal distinct financial priorities between Millennials and Gen Z. Millennials tend to focus on practical needs such as household expenses (54%) and healthcare (44%), emphasizing their commitment to maintaining stability and covering essential costs. In contrast, Gen Z demonstrates a strong inclination toward borrowing for lifestyle and leisure activities (58%), highlighting their emphasis on personal enjoyment and experiences. While both generations utilize loans for business investments, Millennials do so more frequently, reflecting their long-term financial security goals.
+
 #### Using Paylater Wisely to Manage Spending
+As Paylater services become more integrated into daily life, the choice of platforms is often driven by their convenience and ease of use for shopping and bill payments. However, as these services grow in popularity, the primary challenge for users is to balance the convenience of Paylater with the need to avoid accumulating debt, ensuring they maintain financial discipline despite the easy access to credit.
+
+<p align="center">
+  <img src="assets/image/29.png" alt="top-paylater-apps-for-millennials-and-gen-z">
+</p>
+
 ##### When and Why Millennials and Gen Z Use Paylater
+<p align="center">
+  <img src="assets/image/30.png" alt="comparison-of-paylater-usage-by-expense-category">
+</p>
+
+Millennials and Gen Z in Indonesia display distinct spending patterns when using Paylater services, shaped by their different financial priorities. Millennials primarily utilize Paylater for essential expenses, such as internet and utility bills (57%) and monthly expenses (55%), reflecting a cautious approach focused on managing day-to-day financial responsibilities. Their lower spending on fashion (12%) and entertainment (33%) underscores their emphasis on stability and necessity.
+
+In contrast, Gen Z tends to use Paylater for lifestyle-related purchases, with a significant portion (54%) allocated towards travel and entertainment, and 42% on fashion items. This trend highlights Gen Z’s inclination to enhance their lifestyle, using Paylater to enjoy experiences and maintain a trendy image. Additionally, 43% of Gen Z relies on Paylater to purchase the latest gadgets, demonstrating their strong connection to digital culture and a desire to keep up with technological advancements.
+
+These generational differences in Paylater usage reflect the contrasting financial behaviors of Millennials and Gen Z. While Millennials prioritize covering essential expenses and ensuring financial security, Gen Z focuses more on lifestyle enhancements and staying current with trends. For businesses and financial services, understanding these nuances is crucial for tailoring products and services to meet the specific needs of each demographic group effectively
+
 ##### Managing Monthly Paylater Installments Effectively
+<p align="center">
+  <img src="assets/image/31.png" alt="comparison-of-mean-score-for-monthly-paylater-installments">
+</p>
+
+Millennials have a mean borrowing amount of approximately 1.475 million IDR, reflecting their cautious approach to borrowing. This lower mean suggests that Millennials are more inclined to choose smaller, more manageable payments, prioritizing financial security and stability.
+
+In contrast, Gen Z has a slightly lower mean borrowing amount of approximately 1.275 million IDR. While still favoring smaller payments, this figure indicates a marginally greater willingness among Gen Z to take on slightly larger installments compared to Millennials. This difference could be attributed to Gen Z’s focus on lifestyle enhancement and staying current with trends, occasionally leading them to stretch their budgets further.
 
 ### Exploring New Investment Strategies for a Secure Future
+<p align="center">
+  <img src="assets/image/32.png" alt="financial-focus-areas-for-millennials-and-gen-z">
+</p>
+
+The data reveals distinct financial priorities between Millennials and Gen Z, shaped by their unique life stages and aspirations. Both generations place a strong emphasis on preparing an emergency fund, with 65% of respondents identifying it as their top priority. This shared focus highlights a collective understanding of the need for financial security, particularly in an uncertain economic climate.
+
+Children’s education savings is another key priority (46%), but it reveals a significant generational divide. While 58% of Millennials consider this a critical goal, only 33% of Gen Z share the same level of concern. This difference reflects the varying life stages of each generation—Millennials, many of whom are parents or planning to start families, naturally prioritize their children’s future, whereas Gen Z, generally younger and without such responsibilities, place less emphasis on this aspect of financial planning.
+
+Interestingly, 21% of Gen Z are actively pursuing financial literacy education, compared to 17% of Millennials. This suggests that Gen Z is more focused on acquiring financial knowledge, likely as a strategy to navigate an increasingly complex economic environment. Their proactive approach to financial education indicates a broader trend among younger Indonesians to equip themselves with the tools needed for future financial independence.
+
+<p align="center">
+  <img src="assets/image/33.png" alt="comparison-of-financial-goals-between-gen-z-and-millennials">
+</p>
+
+When it comes to preparing for retirement, health insurance, and old age security, 31% of Millennials are focused on these areas, compared to 29% of Gen Z. This slight difference suggests that Millennials, being closer to retirement age, are more concerned with long-term financial stability, while Gen Z, still early in their careers, may not yet prioritize these aspects as highly.
+
+Property and asset preparation remains a consistent priority across both generations, with 27% of respondents from each group focusing on this goal, indicating a shared interest in tangible investments that secure financial futures.Geographical differences also play a role in shaping these financial priorities. Millennials in smaller cities tend to prioritize traditional goals, such as securing their children’s future and preparing for retirement, while Gen Z in smaller cities may lean more toward property investment, reflecting the influence of local contexts on financial decision-making.
+
+Overall, the data highlights the distinct financial priorities and strategies of Millennials and Gen Z in Indonesia. While there are commonalities, such as the emphasis on emergency funds, the generational differences reflect varying life stages, aspirations, and approaches to securing financial stability in an ever-changing economic landscape.
 
 ## Building a Strong Financial Future
 Millennials and Gen Z in Indonesia are navigating a complex financial landscape, characterized by traditional economic challenges and emerging threats, such as the rise of online gambling. Despite these difficulties, both generations have shown remarkable adaptability, embracing frugal living and diversifying their income streams to cope with rising living costs and stagnant wages. Their resilience underscores a strong determination to secure a stable financial future.
