@@ -693,7 +693,7 @@ As the demand for continuous learning grows, so does the interest in non-formal 
 Among the key motivations, 75% of respondents are driven by the desire to develop specific new skills, while 72% are attracted to the faster learning process that non-formal education provides. The flexibility of time and location, appreciated by 68%, allows learners to balance education with their busy schedules. Additionally, 61% pursue non-formal education to explore personal hobbies and passions. These figures underscore the growing appeal of non-formal education as a complementary option to traditional learning, particularly for those seeking to enhance their skills and knowledge in a flexible, efficient manner.
 
 ### Prioritizing Mental Health Education in Schools
-> **53% Millenials and Gen Z**
+> **53% Millenials and Gen Z**<br>
 > support the inclusion of mental health education and awareness in school curriculums
 
 <p align="center">
@@ -710,8 +710,8 @@ Promoting mental health as equally important as physical health is a key priorit
 
 Millennials and Gen Z in Indonesia are playing an increasingly proactive role in promoting mental health awareness. Around 25% of respondents are actively engaged in initiatives that highlight the importance of mental health, with 29% of Gen Z and 21% of Millennials in major cities particularly focused on the concept of self-love. This active participation underscores a broader generational commitment to destigmatizing mental health issues and advocating for self-care as a fundamental aspect of overall well-being.
 
-> **22% Millenials and GenZ**
-> **participate in campaigns that highlight the complex relationship between social, political, and economic factors affecting mental health**
+> **22% Millenials and GenZ**<br>
+> **participate in campaigns that highlight the complex relationship between social, political, and economic factors affecting mental health**<br>
 > Additionally, 22% of respondents are involved in campaigns that raise awareness about the complex interplay between social, political, and economic factors on mental health. This involvement highlights the need for government-supported initiatives that align with these grassroots efforts, helping to amplify the message and extend its reach. The collective actions of Millennials and Gen Z demonstrate a clear demand for comprehensive mental health campaigns that not only raise awareness but also provide practical solutions for managing stress and enhancing overall well-being.
 
 ### Maintaining Well-being with the Gerakan Sekolah Sehat Initiative
@@ -777,7 +777,7 @@ However, significant stressors still impact their workplace experience, particul
 ### Finding Meaning and Fulfillment in the Workplace
 A sense of purpose is essential for job satisfaction and well-being, particularly for Millennials and Gen Z. These generations are increasingly discerning, often rejecting positions or employers that do not align with their values. When employers actively listen and respond to this feedback, they often see increased loyalty and engagement. For many, purpose transcends mere job functions—it involves contributing to an organization with a mission that extends beyond profit and positively impacts society. Indeed, 75% of Millennials and Gen Z prioritize a company’s community engagement and societal impact when considering where to work. However, despite positive sentiments toward their current employers, there is a notable skepticism about the broader business world’s impact on society, with less than half believing that businesses are making a significant positive difference.
 
-> **75% of Millennials and Gen Z**
+> **75% of Millennials and Gen Z**<br>
 > consider having a sense of purpose in their job to be very important for their job satisfaction and well-being
 
 In addition to purpose, these generations place a high value on a supportive work environment. They are driven by growth opportunities, seeking roles that offer continuous learning and advancement. Stagnation is a major concern; they prefer dynamic careers where they can keep progressing. A strong support system from coworkers and supervisors is also crucial. Millennials and Gen Z thrive in environments where teamwork and mentorship are prevalent, and they perform best when they feel supported by their peers and leaders. Fair pay and flexibility complete their top priorities—these generations seek more than just a paycheck; they want fair compensation and the ability to balance work with personal life. Employers who can offer growth, support, competitive pay, flexibility, and a sense of purpose are better positioned to attract and retain these employees, fostering a loyal and engaged workforce.
@@ -859,7 +859,7 @@ These concerns are not limited to AI; they also extend to the general handling o
 
 The data highlights a strong and optimistic push for better consumer data protection, reflecting a growing awareness and determination among Indonesians to safeguard their personal information. With 47% of respondents calling for clear policies and regulations from the government, there is a clear expectation that authorities will take proactive steps to protect consumer data. The desire for serious sanctions against any misuse, supported by 44% of those surveyed, shows that people are ready to hold both corporations and the government accountable, ensuring that trust is maintained in a rapidly digitizing world. Although 42% of respondents express concern about preventing data leaks, this also presents an opportunity for the government to build a robust, secure environment that reassures the public.
 
-> **66% of Millennials and Gen Z**
+> **66% of Millennials and Gen Z**<br>
 > States that, ideally, they would pursue civil legal action in the event of privacy data breaches
 
 On the corporate side, the data reveals a strong demand for companies to play a more active role in protecting consumer data. With 46% of respondents expecting secure handling of identity data and 40% advocating for ongoing consumer education on data security, there is a clear call for businesses to not only protect but also empower their customers. The expectation for dedicated data security teams, as expressed by 39% of respondents, indicates that consumers are looking for companies to take concrete, visible steps to prioritize their safety. The fact that 66% would seek legal action in the event of a breach underscores the seriousness with which consumers view these issues. While challenges remain, this data reflects a powerful shift towards greater security and transparency, laying the groundwork for a more secure and trusted digital future in Indonesia.
@@ -1043,22 +1043,22 @@ Her perspective emphasizes the importance of providing the right kind of therapy
 
 Millennials and Gen Z are strong advocates for expanding mental health services in Indonesia, particularly at community health centers (Puskesmas). With 61% of respondents emphasizing the importance of providing consultation services with psychologists at Puskesmas, the public’s expectations for accessible and affordable mental health care are clear. This demand is particularly pronounced among Gen Z, where 63% support this initiative.
 
-> **51% Millenials and Gen Z**
+> **51% Millenials and Gen Z**<br>
 > thinks access to affordable mental health services by the government must be increased
 
 The need for expanding access to affordable mental health services is a critical concern for both Millennials and Gen Z, with 51% of respondents stressing the importance of making these services more widely available. This data underscores the growing demand for mental health support in Indonesia, particularly within community health centers (Puskesmas). As Millennials and Gen Z increasingly recognize the importance of mental health, there is a clear call for the government to ensure that these services are accessible and affordable for all, especially in underserved areas.
 
-> **60% Millenials and Gen Z**
+> **60% Millenials and Gen Z**<br>
 > thinks mental health is equally important as physical health
 
 Promoting mental health as being on par with physical health is a priority for 60% of respondents, with Gen Z showing particularly strong support. This generational shift in attitudes towards mental health underscores the importance of government-led campaigns to raise awareness and reduce stigma.
 
-> **50% Millenials and Gen Z**
+> **50% Millenials and Gen Z**<br>
 > recognize the need of good coverage mental health issues under BPJS and other state health facilities
 
 Additionally, 50% of respondents recognize the need for good coverage of mental health issues under BPJS and other state health facilities, further emphasizing the importance of accessible care.
 
-> **45% Millenials and Gen Z**
+> **45% Millenials and Gen Z**<br>
 > believe it is essential to encourage more individuals to seek help for mental health issues without fear of judgement
 
 Efforts to reduce stigma surrounding mental health issues, supported by 45% of respondents, are essential for encouraging more people to seek help without fear of judgment. By addressing these issues through targeted campaigns and policies, the government can create a more supportive environment for those dealing with mental health challenges.
@@ -1067,7 +1067,7 @@ Efforts to reduce stigma surrounding mental health issues, supported by 45% of r
 ### Making Mental Health Support Affordable and Accessible
 Access to affordable mental health services is a major concern, with 56% of respondents emphasizing the need for consultation services with psychologists at reasonable prices. This highlights the critical importance of affordability as a central element in any effective mental health policy
 
-> **56% Millenials and Gen Z**
+> **56% Millenials and Gen Z**<br>
 > emphasize the need for affordable mental health services, highlighting affordability as a crucial element of effective mental health policy
 
 ## Reducing Stigma Around Mental Health
