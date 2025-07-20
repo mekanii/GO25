@@ -312,3 +312,108 @@ At the same time, the shifting dynamics in family life are redefining traditiona
 
 As Indonesia continues to modernize, it is essential to support these evolving needs while honoring the traditions that have long been the foundation of its society. By fostering an environment that balances tradition with modern realities, Indonesia can ensure that its families not only survive but thrive, making gender equality and financial independence tangible realities.
 
+# CHAPTER 02 PERSONAL FINANCE
+## Overcoming Financial Challenges Together
+Millennials and Gen Z in Indonesia are increasingly finding it difficult to achieve financial security due to rising living costs and stagnant wages. Inflation has consistently outpaced wage growth, creating an economic environment where meeting basic needs becomes more challenging, and savings goals seem increasingly distant. Over the past four years, food inflation has surged by 5.6%, while minimum wage growth has lagged at just 4.9%, according to the Bank of Indonesia.
+
+> 66% of Millennials and Gen Z perceives the greatest challenge in managing their finances to be the ever-increasing cost of living, particularly Gen Z in urban areas
+
+<p align="center">
+  <img src="assets/image/12.png" alt="average-wage-of-millennials-and-gen-z">
+</p>
+
+The average wage for Millennials and Gen Z in formal jobs across Indonesia varies by age group, ranging from IDR 2.2 million to 3.4 million. These modest earnings, combined with a shrinking middle class and a rise in informal employment—exacerbated by events like the “tech winter” and widespread layoffs—have pushed many into precarious financial situations, further widening the gap between income and living costs.
+
+The economic strain is further compounded by the shrinking middle class and the rise of informal employment. Events like the “tech winter” and widespread layoffs in industries such as textiles have driven more people into unstable financial conditions, with informal sector employment now accounting for 60.12% of the workforce, compared to 39.88% in the formal sector. Meanwhile, advancements in manufacturing, material processing, and design systems, alongside new materials, are rapidly transforming industries. These technological improvements in weaving, dyeing, finishing, and printing have made fabric production more efficient, cost-effective, and environmentally friendly.
+
+## Rethinking Financial Priorities for Young People
+While both Millennials and Gen Z in Indonesia navigate a challenging economic landscape, their approaches to financial management differ. Millennials are more focused on family-oriented goals and health, struggling with income insufficiency as they juggle multiple responsibilities. Gen Z, still in the early stages of their financial journeys, emphasizes savings, property investment, and personal experiences while seeking out more information to better manage their finances. These insights underscore the need for tailored financial advice and support for each generation, addressing their unique challenges and helping them achieve their financial aspirations.
+
+<p align="center">
+  <img src="assets/image/13.png" alt="main-goal-in-saving-and-financial-planning">
+</p>
+
+Millennials, grappling with financial pressures, prioritize their finances differently from Gen Z. Millennials tend to focus on building a stable foundation for their families and ensuring long-term security. This is evident in their primary financial goal of saving for their children’s education, with a significant 47% of Millennials emphasizing this need. This underscores their commitment to securing a better future for their children, likely driven by their current life stage, where family responsibilities are more pronounced.
+
+In contrast, Gen Z’s financial priorities are more varied and immediate. Their focus is split between building an emergency fund (36%), investing in property (22%), and indulging in holiday and life experiences (19%). This generation is clearly in the phase of setting up their financial foundations, balancing the need for security with a desire for experiences that enrich their lives. The emphasis on property investment reflects their awareness of the importance of long-term stability, while their inclination towards travel and experiences highlights their quest for personal growth and fulfillment.
+
+## Staying Resilient in Financial Struggles
+<p align="center">
+  <img src="assets/image/14.png" alt="biggest-challenges-in-managing-finances">
+</p>
+
+Both generations face significant financial challenges, albeit in different forms. A staggering 66% of respondents across both groups cite the rising cost of living as the biggest hurdle. However, when diving deeper, it becomes clear that Gen Z primarily struggles with a lack of savings, with 41% identifying this as their main issue. This suggests that despite their efforts to save, the economic environment and their relatively early career stages make it difficult to accumulate sufficient funds.
+
+On the other hand, Millennials report that their income is often insufficient to meet living needs, with 45% highlighting this challenge. This indicates that while they may have more stable jobs or higher incomes compared to Gen Z, the financial demands of supporting a family and maintaining a certain quality of life stretch their earnings thin. The contrast here shows that while both groups are feeling the pinch, the nature of their financial struggles varies significantly.
+
+### Adjusting to a New Normal with Extra Income Streams
+| Income-Boosting Strategies          | Overall (%) | Gen Z (%) | Millennials (%) |
+|:------------------------------------|------------:|----------:|----------------:|
+| Taking on a Side Job                |        46   |      43   |            50 ↑ |
+| Engaging in Online Selling          |        29   |      32 ↑ |            25   |
+| Seeking Higher-Paying Jobs          |        28   |      34 ↑ |            23   |
+| Exploring Investment Oppurtunities  |        25   |      28 ↑ |            23   |
+
+As the economic pressures of rising living costs and stagnant wages continue to challenge financial stability, both Millennials and Gen Z in Indonesia are increasingly seeking out additional income streams to maintain their financial security. This trend reflects a broader strategic response to the current economic environment, where traditional salaries are no longer sufficient to cover daily expenses and long-term financial goals.
+
+Millennials, in particular, are more inclined to take on side jobs, with 50% actively pursuing this strategy. This higher percentage indicates that Millennials, who may have more established careers and responsibilities, see side gigs as a necessary supplement to their income, helping them manage both immediate needs and future financial commitments. Their focus on side jobs highlights a pragmatic approach to financial stability, where balancing multiple income sources becomes crucial for maintaining their standard of living.
+
+On the other hand, Gen Z demonstrates a strong entrepreneurial spirit, with 32% engaging in online selling and 34% seeking higher-paying job opportunities. This generation’s comfort with digital platforms and their proactive approach to career advancement are evident in their efforts to explore various avenues for income generation. Additionally, 28% of Gen Z is actively looking into investment opportunities, showing a keen interest in growing their wealth beyond traditional employment. This trend aligns with their broader desire for financial autonomy and the flexibility to pursue diverse income streams.
+
+Overall, while both generations are adapting to economic challenges by diversifying their income, their approaches differ based on their life stages and financial priorities. Millennials are more focused on side jobs to secure financial stability, while Gen Z is leveraging digital platforms and investment opportunities to build a foundation for long-term financial independence. These generational strategies underscore the importance of flexibility and adaptability in navigating the evolving economic landscape in Indonesia.
+
+### Embracing Frugal Living as a Smart Strategy
+<p align="center">
+  <img src="assets/image/15.png" alt="comparison-of-financial-strategies-between-millennials-and-gen-z-amid-rising-living-costs">
+</p>
+
+As the economic landscape evolves, Gen Z is leading the way in adopting a frugal lifestyle, with 56% actively implementing cost-saving measures. This reflects their proactive response to financial challenges, shaped by experiences with economic instability and the availability of digital tools for budgeting. Their higher adoption rate highlights a significant shift towards maximizing value and sustainability, indicating a strategic approach to managing finances in an uncertain environment.
+
+In contrast, Millennials show a slightly lower inclination towards frugality, with 49% embracing cost-saving practices. This can be attributed to their more established careers and lifestyle expenditures. While Millennials also face financial pressures, their spending habits are influenced by different priorities and financial stages compared to Gen Z. This generational divergence underscores the need for tailored financial strategies and marketing approaches that address the distinct values and financial behaviors of each cohort.
+
+<p align="center">
+  <img src="assets/image/16.png" alt="frugal-living-strategies-among-millennials-and-gen-z">
+</p>
+
+As economic challenges persist, Gen Z is taking the lead in adopting creative strategies to save money. Sixty percent of Gen Z respondents actively seek out promotions and discounts, making this their primary approach to cutting costs. This behavior highlights their focus on maximizing the value of every purchase, understanding that small savings can accumulate significantly over time. Additionally, 54% of Gen Z is reducing social activities, such as hanging out with friends, to better manage their finances. Another 30% is opting for more affordable fitness options, like running instead of gym memberships, reflecting their broader commitment to cost-effective living.
+
+Millennials are also embracing frugality, though with a different focus. Sixty-six percent of Millennials prioritize cooking at home, making it the most common money-saving strategy within this group. This habit not only helps with budgeting but also supports a healthier lifestyle, as home-cooked meals tend to be more nutritious than takeout. While Millennials also seek the best deals through promotions and discounts, their practical approach is evident in the 53% who prefer home-cooked lunches over snacks. This choice reflects their preference for substantial, budget-friendly meals that provide both value and nourishment.
+
+> **“Frugal living isn’t about denying yourself comfort—it’s about making deliberate, thoughtful choices and resisting the constant pressure to chase after luxury for the sake of appearances. It’s about understanding what truly matters to you, even if it means putting in a bit more effort, and staying committed to those values instead of getting caught up in the endless pursuit of the next big thing. Frugality is about prioritizing substance over style, and finding fulfillment in simplicity rather than excess”**
+>
+> — Samuel Ray, Content creator, Author, and Advocate for Frugal Living
+
+By adopting frugal habits, Millennials and Gen Z are not just saving money; they are redefining what it means to live well in today’s society. By moving away from the consumer-driven culture that often dominates urban life, they are shaping lives that prioritize sustainability, simplicity, and meaningful choices. In this context, frugal living is not about deprivation—it’s about building a life that is both financially secure and ethically grounded, where fulfillment comes from deliberate choices rather than the endless pursuit of material excess.
+
+### Supporting the Sandwich Generation in Balancing Family Duties
+In Indonesia, the economic challenges faced by Millennials and Gen Z have given rise to what is increasingly known as the “sandwich generation.” This term, originally coined by social worker Dorothy Miller in 1981, refers to those who are simultaneously supporting their children while caring for aging parents. As Indonesia’s economy shifts to a lower-middle income status, this phenomenon is becoming more widespread. Bhima Yudhistira, Director of the Center of Economic and Law Studies (Celios), explains that this economic transition has significant consequences, leading to a growing number of individuals finding themselves in the sandwich generation. The decline in Gross National Income (GNI) per capita is indicative of broader economic issues, including stagnant wages, rising living costs, and insufficient social protection.
+
+Content creator, author, and advocate for Frugal Living, Samuel Ray highlights the generational differences in how Millennials and Gen Z are navigating these challenges. Millennials, now in their 30s and 40s, often find themselves juggling the demands of raising young children while also caring for elderly parents.
+
+On the other hand, Gen Z is determined to avoid the financial struggles they have seen Millennials endure. They are focused on achieving financial independence and even early retirement but face significant obstacles, including limited career opportunities, high living costs, and escalating education expenses, which make saving and investing increasingly difficult.
+
+Indonesia’s social safety net remains inadequate in addressing these issues. Programs like Jaminan Kesehatan Nasional (JKN) provide some coverage, but many still face significant out-of-pocket medical expenses, forcing the sandwich generation to make difficult choices between immediate healthcare needs and long-term financial security. With 35% of health expenses being paid out-of-pocket—far exceeding the WHO’s recommended 20%—the pressure on these individuals is immense.
+
+Government initiatives like Kartu Prakerja offer some relief, but the middle class often finds itself overlooked. While financial literacy is crucial, it is not enough on its own. Without stronger social welfare programs, many will remain caught in the cycle of supporting both their children and aging parents, struggling to achieve financial independence and stability for the future.
+
+> **“Millennials are uniquely positioned in the sandwich generation, shouldering the dual responsibilities of raising young children while caring for aging parents. They bear the emotional and financial burden of both roles, often feeling stretched thin, yet they continually find ways to balance these demands. This generation exemplifies resilience, managing the intricate pressures of supporting their families on both ends with remarkable strength and resourcefulness”**
+>
+> — Samuel Ray, Content creator, Author, and Advocate for Frugal Living
+
+### Testimonials
+> **Arief, 38, Jakarta**<br>
+> “Managing all household expenses for my parents and my own family is a big responsibility, but I’m comfortable with it. Even though the financial burden is significant, I’ve grown accustomed to it and take pride in providing for both households. The sense of accomplishment I feel from making sure everyone is well taken care of outweighs the challenges. It’s a lot of work, but knowing my family is happy and secure makes it all worthwhile.
+
+> **Aika, 35, Bandung**<br>
+> “Supporting my younger sibling’s education has been a huge financial commitment, but it’s something I’m proud to do. While it does stretch my budget, seeing my sibling succeed and knowing that I’m helping them achieve their goals is deeply fulfilling. The sacrifices are worth it when I see their progress and know I’m contributing to their future. It’s a challenging role, but it’s one I gladly accept for the sake of family.”
+
+> **Hadi, 33, Surabaya**<br>
+> “I’m proud to have covered my brother’s wedding expenses and to support my sister’s living costs while she studies in Malaysia. However, I sometimes feel that if my living situation were less burdensome and my financial pressures lighter, I could have done even more for my family. The strain of managing these responsibilities can be overwhelming at times, and I wonder how things might have been different if I had more financial security. Despite this, I continue to do my best because I care deeply about my family’s well-being.
+
+> **Rayna, 31, Jakarta**<br>
+> “Being the primary provider for my parents and covering all household expenses has taken a severe toll on my mental health. The constant financial pressure and the burden of managing every aspect of our household leave me feeling overwhelmed and trapped. I’m constantly stressed, and it’s affecting my well-being and personal life. I don’t see my friends, I clearly don’t date, and my life is a constant roller coaster. I often feel that I’m sacrificing my own happiness and health for the sake of supporting my family, and I can’t help but wish for a way out of this situation. It’s a struggle every day, and I don’t know how much longer I can keep going like this without serious consequences for my mental health.”
+
+## Managing Family Responsibilities Across Generations
+## Finding Balance in a Dynamic Economy
+## Building a Strong Financial Future
+
