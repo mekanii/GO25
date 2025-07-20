@@ -651,20 +651,146 @@ Looking ahead, a collaborative approach that includes government bodies, financi
 
 # CHAPTER 03 EDUCATION AND CAREERS
 ## How Young Indonesians See Education Today
+For Millennials and Gen Z in Indonesia, the future is a canvas full of opportunities to address global challenges, embrace diversity, and cultivate creative thinking. These aren’t just aspirational goals; they are core principles shaping how these generations approach education and career paths. They seek learning environments that challenge their thinking and welcome diverse perspectives, aiming to become contributors to a more interconnected world.
+
+The introduction of The Emancipated Curriculum (Kurikulum Merdeka) as the national curriculum for the 2024/2025 academic year is a significant step towards meeting the needs of Gen Z and future generations. This innovative curriculum moves away from rigid, one-size-fits-all approaches, focusing instead on content that is relevant to both global and local challenges. Its flexibility allows schools to adapt to Indonesia’s diverse cultural contexts, making education more meaningful and directly applicable to students’ lives. This adaptability positions students not just as learners but as future leaders equipped to navigate the complexities of the modern world.
+
 ### Understanding the Long-Term Impact of The Emancipated Curriculum
+The Emancipated Curriculum is set to make a profound impact on Indonesia’s educational landscape. By emphasizing essential knowledge and relevant skills, this curriculum goes beyond merely preparing students for exams; it equips them for life. Its adaptable framework ensures that education remains inclusive and reflective of Indonesia’s diverse society, focusing on developing critical thinkers, problem solvers, and innovators. By incorporating real-world work experiences and mentorship, The Emancipated Curriculum bridges the gap between classroom learning and workforce readiness, aiming to produce graduates who are not only knowledgeable but also innovative and adaptable—key qualities in today’s rapidly changing job market.
+
+While Gen Z remains hopeful about their future, many share concerns that their education might not fully equip them for the challenges ahead, particularly in terms of practical skills and real-world applications. However, The Emancipated Curriculum’s commitment to continuous improvement offers a promising solution, ensuring that students are better prepared to navigate an ever-evolving world.
+
+> **“The Emancipated Curriculum is designed to prepare Indonesian students to face various challenges, including environmental, economic, scientific, and sociocultural changes. By focusing on more relevant and essential learning materials, the Emancipated Curriculum encourages students to enjoy the learning process, contextualize the knowledge obtained at school, and unleash their potentials”**
+>
+> - Nadiem Anwar Makarim, Minister of Education, Culture, Research, and Technology
+
 ### Collaborating to Bridge the Gap Between Education and Industry
+Preparing Gen Z and future generations for the workforce is a collective responsibility that extends beyond the classroom. There is a growing expectation for collaboration between the education sector and the corporate world to create a seamless transition from school to work. This partnership is essential in equipping young people with the skills, experiences, and mindsets needed to thrive in a rapidly changing job market.
+
+The Emancipated Curriculum embodies this shared responsibility by introducing concepts aligned with the principles of freedom and equality, such as student differentiation, project-based learning, and the development of Pancasila student profiles. These elements ensure that each student is recognized as an individual, allowing teachers to tailor their approaches to meet unique needs and make learning more engaging and effective. The curriculum also encourages students to take control of their learning journeys, fostering self-awareness—a critical skill for their future. Schools thus become environments where students can fully explore and refine their strengths, preparing them not just for employment but for leadership roles in society
+
 ### Embracing Lifelong Learning as Essential for Success
+Education should never be confined to the classroom. In today’s rapidly changing world, lifelong learning is more essential than ever. As industries evolve and new challenges arise, young people need to continuously develop new skills and adapt to change, whether through formal education or practical experiences. Lifelong learning goes beyond acquiring technical expertise; it encompasses the development of empathy, critical thinking, and other soft skills that empower individuals to navigate modern complexities with creativity and compassion.
+
+> **“The Emancipated Curriculum is inspired by the educational philosophy of Ki Hajar Dewantara, the Father of Education. His principles, ‘Ing ngarso sung tulodo, ing madyo mangun karso, tut wuri handayani’ – meaning ‘Lead by example in front, build collective strength in the middle, and provide support from behind’ – form the core of our educational system. The phrase ‘Tut wuri handayani,’ which also features in our Ministry’s logo, embodies the ultimate aim of our learning process”**
+>
+> — Iwan Syahril, Director General of Early Childhood Education, Primary Education, and Secondary Education
+
 ### Building Critical Thinking and Digital Literacy Skills for the Future
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+Millennials and Gen Z in Indonesia place significant importance on critical thinking and digital literacy, recognizing these skills as essential for success in the modern world. According to the data, 46% of respondents believe that critical thinking helps them analyze information and think innovatively, while 45% feel it aids in solving problems and building better strategies at work. Digital literacy is also crucial for expressing creative ideas (33%) and drawing conclusions from data (32%). However, there is a notable divide, with 26% of Millennials not considering critical thinking and digital literacy very important. This may reflect varying levels of digital integration in their lives and careers, with some still navigating the transition from traditional to digital-centric work environments.
+
 ### Exploring Non-Formal Education and Its Growing Appeal
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+As the demand for continuous learning grows, so does the interest in non-formal education, particularly among Millennials and Gen Z. Young people are increasingly recognizing the value of alternative learning opportunities that complement traditional education.
+
+Among the key motivations, 75% of respondents are driven by the desire to develop specific new skills, while 72% are attracted to the faster learning process that non-formal education provides. The flexibility of time and location, appreciated by 68%, allows learners to balance education with their busy schedules. Additionally, 61% pursue non-formal education to explore personal hobbies and passions. These figures underscore the growing appeal of non-formal education as a complementary option to traditional learning, particularly for those seeking to enhance their skills and knowledge in a flexible, efficient manner.
+
 ### Prioritizing Mental Health Education in Schools
+> ### 53% Millenials and Gen Z
+> support the inclusion of mental health education and awareness in school curriculums
+
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+When asked about the importance of mental health education in schools, 53% of respondents highlighted its necessity. Millennials and Gen Z strongly advocate for early intervention as a crucial strategy for preventing mental health issues. The widespread support for mandatory mental health education reflects a generational push for programs that equip young people with the tools to manage stress, recognize issues, and seek help. By fostering a more supportive environment through education, Indonesia can promote overall well-being from a young age, reducing stigma and ensuring that mental health is treated with the importance it deserves.
+
+Promoting mental health as equally important as physical health is a key priority for 57% of Millennials respondents and 63% of Gen Z respondents. This reflects a generational shift in attitudes towards mental health, where younger people increasingly view mental well-being as integral to overall health. Integrating this into government-led campaigns can help further raise awareness and reduce stigma, making it clear that mental health should be treated with the same level of importance as physical health in both policy and practice.
+
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+Millennials and Gen Z in Indonesia are playing an increasingly proactive role in promoting mental health awareness. Around 25% of respondents are actively engaged in initiatives that highlight the importance of mental health, with 29% of Gen Z and 21% of Millennials in major cities particularly focused on the concept of self-love. This active participation underscores a broader generational commitment to destigmatizing mental health issues and advocating for self-care as a fundamental aspect of overall well-being.
+
+> ### 22% Millenials and GenZ
+> #### participate in campaigns that highlight the complex relationship between social, political, and economic factors affecting mental health
+> Additionally, 22% of respondents are involved in campaigns that raise awareness about the complex interplay between social, political, and economic factors on mental health. This involvement highlights the need for government-supported initiatives that align with these grassroots efforts, helping to amplify the message and extend its reach. The collective actions of Millennials and Gen Z demonstrate a clear demand for comprehensive mental health campaigns that not only raise awareness but also provide practical solutions for managing stress and enhancing overall well-being.
+
 ### Maintaining Well-being with the Gerakan Sekolah Sehat Initiative
+Indonesia’s Gerakan Sekolah Sehat (Healthy School Movement) is a comprehensive initiative aimed at improving both the physical and mental health of students. The movement focuses on practical, everyday actions—such as staying hydrated and incorporating quick stretches between classes—to help students build healthier habits. These seemingly small steps are designed to collectively create a healthier school environment overall.
+
+Nutrition is a key component of this movement, addressing the widespread issues of both undernutrition and overnutrition among students in Indonesia, which can significantly impact their physical and mental well-being. The Healthy School Movement promotes affordable, nutritious foods like eggs, which are accessible and rich in the protein that students need. Better nutrition leads to improved focus and energy in the classroom, making it an integral part of the movement’s strategy.
+
+However, mental health presents a more complex challenge. In many parts of Indonesia, mental health remains a taboo subject, with significant stigma surrounding it. The Healthy School Movement is working to change this by running educational campaigns that directly confront these cultural barriers. The goal is to normalize conversations about mental health, making it a topic that students can discuss openly and without fear.Recognizing that mental health awareness varies widely across different regions and social groups in Indonesia, the movement’s initiatives are tailored to fit local contexts. In areas where stigma is particularly strong, these campaigns are even more critical. The aim is to create school environments where students feel safe to share their experiences, receive the support they need, and offer support to one another.By making mental health a central focus of the Healthy School Movement, Indonesia is adopting a holistic approach to student well-being. It’s not just about keeping students physically healthy; it’s about ensuring they are mentally resilient as well. The goal is to equip students with the tools and support necessary to effectively manage their mental health, setting them up for a healthier, more resilient future.
+
 ## Carving Out Career Opportunities in a Changing World
+As Millennials and Gen Z enter the workforce in Indonesia, their approach to careers reflects a deep understanding of the need for balance, growth, and fulfillment. These generations differ distinctly from their predecessors—they prioritize work-life balance, value supportive work environments, and seek opportunities for growth and development. This chapter explores the key factors shaping their career choices, the significance of a comfortable work environment, and how they perceive the role of higher education in their professional success.
+
 ### The Crucial Role of Higher Education in Career Development
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+Higher education remains a critical element in the career trajectories of Millennials and Gen Z in Indonesia. For many, it serves as a vital stepping stone in their career paths. According to the data, 63% of respondents believe that obtaining a university degree significantly improves their chances of securing a job, with this belief being particularly strong among Gen Z (65%). This perception is rooted in the idea that higher education provides the essential knowledge and skills necessary to compete in the global workforce.
+
+-- table
+
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+Moreover, 59% of respondents feel that a university degree equips them to compete effectively on a global scale, particularly in terms of knowledge and skills. This confidence in their educational background enables them to pursue career opportunities requiring specialized expertise, positioning themselves as valuable assets in the global workforce. The potential for higher income (58%) and the perception of stronger job stability (57%) further reinforce the importance of higher education in securing a stable and prosperous career. Interestingly, 55% of respondents, especially those in big cities, view higher education as a means to increase social status, reflecting the societal value placed on educational attainment.
+
 #### Balancing Financial Goals and Personal Fulfillment
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+For Millennials and Gen Z, balancing financial goals with personal fulfillment is critical. A significant portion of respondents—26%—prioritize aligning their careers with family life, reflecting a move away from the traditional career-first mindset. Instead, they see success as integrating work with personal well-being and relationships.
+
+Furthermore, 21% of respondents focus on finding careers that are not just about financial gain but also personally rewarding. They seek roles that resonate with their values and passions, striving for professional and personal growth in tandem.
+
+Flexibility remains a crucial factor, with 15% preferring jobs that offer flexible hours and remote work options. Recent shifts toward more on-site work have had mixed results—some employees report better engagement and routines, while others face increased stress and lower productivity. Nonetheless, the desire for flexibility drives the rise of non-traditional employment models like part-time roles, job-sharing, and side gigs.
+
+Ultimately, work-life balance is the top priority for Millennials and Gen Z, influencing their choice of employers and how they admire their peers. Their demand for flexibility and balance is reshaping the definition of work, prioritizing a harmonious blend of professional and personal life.
+
 ### Creating Workplaces That Support Growth and Innovation
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+Millennials and Gen Z place a strong emphasis on growth and development in the workplace, with 58% of respondents prioritizing opportunities to learn and advance. They seek environments that offer continuous progress and avoid the stagnation of remaining in the same role. Equally important is the need for support—54% value supportive coworkers, and 48% emphasize the importance of a supportive boss. These generations thrive in collaborative settings where teamwork, mentorship, and mutual support are prevalent.
+
+Compensation and flexibility are also key priorities. Nearly half of the respondents stress the importance of wages that align with their skills, while 48% value flexible working hours that allow them to balance professional and personal lives. For Millennials and Gen Z, work is not just about earning a paycheck—they seek roles that respect their time and offer autonomy.
+
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+However, significant stressors still impact their workplace experience, particularly concerning mental health. Recent economic uncertainty is the most prominent source of anxiety, as cited by 44% of respondents. Work pressure also plays a considerable role, impacting 24% of individuals, while 22% struggle with the difficulty of finding work post-COVID-19. These findings highlight the critical need for employers to create a healthier, more supportive work environment that addresses these concerns and empowers Millennials and Gen Z to thrive.
+
 ### Finding Meaning and Fulfillment in the Workplace
+A sense of purpose is essential for job satisfaction and well-being, particularly for Millennials and Gen Z. These generations are increasingly discerning, often rejecting positions or employers that do not align with their values. When employers actively listen and respond to this feedback, they often see increased loyalty and engagement. For many, purpose transcends mere job functions—it involves contributing to an organization with a mission that extends beyond profit and positively impacts society. Indeed, 75% of Millennials and Gen Z prioritize a company’s community engagement and societal impact when considering where to work. However, despite positive sentiments toward their current employers, there is a notable skepticism about the broader business world’s impact on society, with less than half believing that businesses are making a significant positive difference.
+
+> ### 75% of Millennials and Gen Z
+> consider having a sense of purpose in their job to be very important for their job satisfaction and well-being
+
+In addition to purpose, these generations place a high value on a supportive work environment. They are driven by growth opportunities, seeking roles that offer continuous learning and advancement. Stagnation is a major concern; they prefer dynamic careers where they can keep progressing. A strong support system from coworkers and supervisors is also crucial. Millennials and Gen Z thrive in environments where teamwork and mentorship are prevalent, and they perform best when they feel supported by their peers and leaders. Fair pay and flexibility complete their top priorities—these generations seek more than just a paycheck; they want fair compensation and the ability to balance work with personal life. Employers who can offer growth, support, competitive pay, flexibility, and a sense of purpose are better positioned to attract and retain these employees, fostering a loyal and engaged workforce.
+
 ### Adapting to Office Life and Its Impact on Engagement
+The return to office policy has further highlighted these preferences. Data shows that 28% of Millennials and 26% of Gen Z feel more engaged and connected with their colleagues when working from the office, reflecting an enhanced sense of belonging and community. Additionally, 27% of Millennials and 25% of Gen Z appreciate the improved routine and structure that office work provides, contributing to their productivity and overall job satisfaction. Both groups also recognize the value of increased collaboration and social interaction, with 24% of Gen Z and Millennials noting these benefits. Furthermore, 23% of Millennials and 21% of Gen Z prefer face-to-face communication, underscoring their appreciation for direct, personal interaction in their professional environments.
+
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+While purpose and a supportive work environment are critical to job satisfaction for Millennials and Gen Z, the return to office policy demonstrates how physical work settings can complement these factors. Employers who integrate a sense of purpose with supportive, flexible work environments are likely to see enhanced engagement and loyalty, creating a more fulfilled and committed workforce.
+
 ### The Rise of Side Hustles When Salaries Fall Short
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+In today’s tough economic climate, Millennials and Gen Z are increasingly turning their hobbies into side hustles to gain financial independence and personal satisfaction. With the cost of living rising and traditional salaries often falling short, these side ventures have become essential. They not only help cover daily expenses and build new skills but also offer a sense of independence and security. However, balancing these extra jobs with full-time work can lead to burnout and stress. Despite these challenges, this generation is redefining what success looks like—focusing more on well-being and embracing a lifestyle that rejects the traditional hustle mentality. Their approach to earning reflects a blend of practicality and passion, showing their adaptability in a rapidly changing economic landscape.
+
 > #### Testimonials from Millenials
 >> **Lia, 29, Bandung:**
 >> “As a marketing professional, I always felt that my 9-to-5 job wasn’t fully utilizing my creativity. I started a photography business on the side, which not only brought in extra income but also allowed me to pursue my passion. Balancing this with my day job can be exhausting, but the satisfaction of seeing my work appreciated—and paid for—is incredibly rewarding. It’s been a journey of selfdiscovery and financial independence.”
@@ -673,6 +799,11 @@ Looking ahead, a collaborative approach that includes government bodies, financi
 >> “After working in the corporate world for a few years, I felt stuck and unfulfilled. I decided to start a blog about healthy living, which turned into a side business. I now make money through sponsored posts and affiliate marketing. It’s been a lot of work, especially keeping up with my full-time job, but it’s given me a sense of purpose and financial freedom that I didn’t have before.
 >
 > #### Testimonials from Gen Z
+>> **Rizky, 22, Bandung:**
+>> “My regular job barely covers my basic needs, so I began exploring other ways to earn extra income. I started selling handmade crafts on social media and joined a few gig economy platforms like ride-sharing and food delivery services. It’s a lot of work juggling these side hustles with my day job, but the additional cash flow helps me manage unexpected expenses and save for future goals. It’s a bit hectic, but it’s worth it to have a bit of financial breathing room.”
+>
+>> **Dito, 23, Jakarta:**
+>> “I’ve always been passionate about gaming, and what started as a hobby turned into a career opportunity I never expected. After investing a lot of time into improving my skills, I began participating in local esports tournaments and streaming my gameplay online. To my surprise, I started earning money from a few sponsorships, tournament prizes, and viewer donations. It’s incredible to make a living doing something I love, and it’s given me a sense of financial freedom and fulfillment. It’s not without its challenges—there’s a lot of competition and pressure—but it’s worth it to turn my passion into a profession.”
 
 An increasing number of young workers are turning to side hustles to boost their income, build skills, and express creativity, often through online tutorials, products, and services on social media. Gen Z, having grown up with digital tools, is particularly adept at generating income this way. Events like the 2008 financial crisis and the pandemic shutdowns have shaped their views on economic security, highlighting the need for multiple income streams. While older generations might see young workers as overly focused on social media fame, many Gen Zers have learned to monetize their hobbies, bringing unique personalities to their work and redefining traditional career paths.
 
