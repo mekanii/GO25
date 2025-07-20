@@ -665,11 +665,55 @@ Looking ahead, a collaborative approach that includes government bodies, financi
 ### Finding Meaning and Fulfillment in the Workplace
 ### Adapting to Office Life and Its Impact on Engagement
 ### The Rise of Side Hustles When Salaries Fall Short
-#### Testimonials from Millenials
-#### Testimonials from Gen Z
+> #### Testimonials from Millenials
+>> **Lia, 29, Bandung:**
+>> “As a marketing professional, I always felt that my 9-to-5 job wasn’t fully utilizing my creativity. I started a photography business on the side, which not only brought in extra income but also allowed me to pursue my passion. Balancing this with my day job can be exhausting, but the satisfaction of seeing my work appreciated—and paid for—is incredibly rewarding. It’s been a journey of selfdiscovery and financial independence.”
+>
+>> **Nia, 28, Yogyakarta:**
+>> “After working in the corporate world for a few years, I felt stuck and unfulfilled. I decided to start a blog about healthy living, which turned into a side business. I now make money through sponsored posts and affiliate marketing. It’s been a lot of work, especially keeping up with my full-time job, but it’s given me a sense of purpose and financial freedom that I didn’t have before.
+>
+> #### Testimonials from Gen Z
+
+An increasing number of young workers are turning to side hustles to boost their income, build skills, and express creativity, often through online tutorials, products, and services on social media. Gen Z, having grown up with digital tools, is particularly adept at generating income this way. Events like the 2008 financial crisis and the pandemic shutdowns have shaped their views on economic security, highlighting the need for multiple income streams. While older generations might see young workers as overly focused on social media fame, many Gen Zers have learned to monetize their hobbies, bringing unique personalities to their work and redefining traditional career paths.
+
+As more young people embrace side hustles, businesses in the tech sector play a crucial role in supporting these efforts by providing platforms, tools, and resources to help side hustlers thrive. For example, Shieny Aprilia, Co-Founder & CEO of Agate, one of the most established game development company in Indonesia, emphasizes the importance of skill-building in turning hobbies into viable careers.
+
+> **“At Agate, we’re committed to turning hobbies into viable careers. Our initiatives, like the Agate Game Course, have prepared over 2,000 students and teachers for careers in game development. Our recent designation as an Unreal Training Center underscores our dedication to nurturing local talent and creating opportunities for Indonesians to transform their passions into professions”**
+>
+> — Shieny Aprilia, Co-Founder & CEO of Agate
+
+By supporting this shift toward diversified income streams, companies like Agate help create a more inclusive and resilient economy where passion and profession blend seamlessly, allowing the next generation to thrive in a rapidly changing economic landscape.
 ## Preparing for Tomorrow’s Job Market with AI and Automation
+Gen Z and Millennials in Indonesia are navigating a landscape of both uncertainty and excitement as AI and automation reshape their careers. AI is not only transforming existing job roles but also creating entirely new ones that require fresh skills. Frequent users of GenAI at work are optimistic, seeing it as a tool to boost productivity, free up time, and improve work-life balance. However, this familiarity also raises concerns about potential downsides, such as job loss due to automation and the challenges younger generations might face in entering the workforce. In response, Millennials and Gen Z are proactively focusing on reskilling and seeking job opportunities that are less vulnerable to automation, recognizing that staying ahead of the curve is essential to thriving in an evolving job market.
+
 ### Embracing AI and Emerging Technologies with Openness
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+Data on AI tech platform usage reveals a clear generational divide between Millennials and Gen Z in their engagement with AI technologies such as virtual assistants, ChatGPT, and Grammarly. The findings show that 52% of Gen Z respondents have used AI tech platforms, a significantly higher percentage than the 37% of Millennials who have done the same. This suggests that Gen Z is more comfortable and proactive in integrating AI tools into their daily routines, reflecting a stronger inclination towards using technology for efficiency and productivity.
+
+In contrast, 63% of Millennials report never having used AI tech platforms, compared to 48% of Gen Z. This disparity indicates that Millennials may be more cautious or less inclined to adopt new AI tools, possibly due to concerns over privacy, job security, or a preference for traditional methods. With overall AI usage across both generations at 45%, it is evident that while a substantial portion of the population is open to AI, the majority (55%) remains hesitant or unfamiliar, particularly among Millennials. This underscores the need for targeted efforts to build trust and educate users on the benefits of AI.
+
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+The data highlights a comparison between Gen Z and Millennials in terms of their openness to changes in the workplace across several factors. Gen Z exhibits a slightly higher openness in most areas, particularly in adopting AI technology and preferring jobs with real social impact. They also display a stronger inclination toward entrepreneurship, with a higher average score of 3.99 compared to 3.93 for Millennials. Additionally, Gen Z places greater value on stable and fixed work rhythms, indicating their desire for both innovation and stability in their professional lives. This suggests that while both generations are adaptable to change, Gen Z may be slightly more proactive in embracing new opportunities and technologies.
+
 ### Navigating Innovation and Security in the Age of AI
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+One of the biggest barriers to AI adoption is widespread concern over security. A significant 63% of respondents express worries about data privacy and security breaches, with Millennials being particularly anxious. Moreover, 51% fear that AI could lead to job losses due to automation, reflecting broader apprehensions about AI’s impact on employment.
+
+<p align="center">
+  <img src="assets/image/.png" alt="">
+</p>
+
+These concerns are not limited to AI; they also extend to the general handling of personal information on digital platforms. For instance, 38% of respondents are “very worried” about the security risks associated with their personal information online, particularly Millennials. This sense of vulnerability naturally leads to a more cautious approach toward AI technology.
+
 ### Meeting Consumer Expectations for Data Security in an AI World
 <p align="center">
   <img src="assets/image/.png" alt="">
