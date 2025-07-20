@@ -225,17 +225,17 @@ While the data reaffirms the strong family connections that define Indonesian so
 > “I agree with other parents and experts that phones and tablets, especially with the content they offer, can harm our kids and us. Endless YouTube playlists and algorithms erode our attention spans, making us less social and more anxious. I feel it myself every time I’m glued to my phone instead of doing something else. That’s why my friends and I decided to ban YouTube and keep tablets out of our homes. We want our kids to experience boredom and let their attention spans develop naturally, without constant screen distractions.”
 
 #### Gen Z Parents
-**Aulia, 25 years old, Bandung - Social Media Manager:**<br>
-“As a Gen Z parent, I aim to integrate technology into my children’s lives in a balanced way, focusing on educational and creative uses while managing time limits. In today’s world, where technology is essential and platforms like YouTube are useful, it’s inevitable that kids will need their own devices. The challenge is navigating when, which ones, how much, and what to limit, which can be overwhelming. Striking the right balance is tough; I’ve often worried whether we were too strict or too lenient. Especially during the pandemic, finding a healthy screen time routine for each child has been more complex than ever.”
+> **Aulia, 25 years old, Bandung - Social Media Manager:**<br>
+> “As a Gen Z parent, I aim to integrate technology into my children’s lives in a balanced way, focusing on educational and creative uses while managing time limits. In today’s world, where technology is essential and platforms like YouTube are useful, it’s inevitable that kids will need their own devices. The challenge is navigating when, which ones, how much, and what to limit, which can be overwhelming. Striking the right balance is tough; I’ve often worried whether we were too strict or too lenient. Especially during the pandemic, finding a healthy screen time routine for each child has been more complex than ever.”
 
-**Danisa, 26 years old, Jakarta - Graphic Designer:**<br>
-“I’m cautious about my children’s online activity. I use filters and set daily limits to ensure their screen time is regulated and safe, aiming to instill an understanding of responsible technology use from an early age.”
+> **Danisa, 26 years old, Jakarta - Graphic Designer:**<br>
+> “I’m cautious about my children’s online activity. I use filters and set daily limits to ensure their screen time is regulated and safe, aiming to instill an understanding of responsible technology use from an early age.”
 
-**Marissa, 26 years old, Jakarta - Freelance Writer:**<br>
-“I sometimes rely on screens to occupy my child. Though I feel guilty about not managing screen time more strictly, my priority is balancing work and family needs. I strive to make screen time as purposeful as possible given the circumstances.”
+> **Marissa, 26 years old, Jakarta - Freelance Writer:**<br>
+> “I sometimes rely on screens to occupy my child. Though I feel guilty about not managing screen time more strictly, my priority is balancing work and family needs. I strive to make screen time as purposeful as possible given the circumstances.”
 
-**Arayya, 26 years old, Bandung - Project Manager:**<br>
-“Using screens in restaurants helps keep my kids occupied and avoid disturbing other diners. It’s not just for my convenience but also about respecting others in public spaces. Many parents feel the same pressure, as there’s a growing sense that society prefers families to stay home or stick to designated play areas, away from public spaces.
+> **Arayya, 26 years old, Bandung - Project Manager:**<br>
+> “Using screens in restaurants helps keep my kids occupied and avoid disturbing other diners. It’s not just for my convenience but also about respecting others in public spaces. Many parents feel the same pressure, as there’s a growing sense that society prefers families to stay home or stick to designated play areas, away from public spaces.
 
 ## Spirituality and Faith Guiding Indonesia’s Youth
 ### Drawing Strength and Guidance from Faith
@@ -316,7 +316,8 @@ As Indonesia continues to modernize, it is essential to support these evolving n
 ## Overcoming Financial Challenges Together
 Millennials and Gen Z in Indonesia are increasingly finding it difficult to achieve financial security due to rising living costs and stagnant wages. Inflation has consistently outpaced wage growth, creating an economic environment where meeting basic needs becomes more challenging, and savings goals seem increasingly distant. Over the past four years, food inflation has surged by 5.6%, while minimum wage growth has lagged at just 4.9%, according to the Bank of Indonesia.
 
-> 66% of Millennials and Gen Z perceives the greatest challenge in managing their finances to be the ever-increasing cost of living, particularly Gen Z in urban areas
+> **66% of Millennials and Gen Z**<br>
+> perceives the greatest challenge in managing their finances to be the ever-increasing cost of living, particularly Gen Z in urban areas
 
 <p align="center">
   <img src="assets/image/12.png" alt="average-wage-of-millennials-and-gen-z">
@@ -487,6 +488,7 @@ High interest rates on loans, also driven by inflation, present another signific
 <p align="center">
   <img src="assets/image/20.png" alt="current-methods-of-house-ownership-among-millennials-and-gen-z-in-indonesia">
 </p>
+
 Data from our survey provides insight into how Millennials and Gen Z are navigating the challenges of homeownership in Indonesia. The findings reveal that a significant 52% of respondents have acquired their homes through inheritance or gifts from family, underscoring the crucial role of generational wealth and family support in the housing market. For many Indonesians, the ability to purchase a home independently remains financially out of reach.
 
 Only 18% of respondents have managed to buy their homes with their own savings, emphasizing the level of financial stability required to avoid relying on credit or loans. This relatively small percentage reflects the broader economic landscape, where few can afford to purchase a home outright without external assistance.
@@ -540,7 +542,7 @@ As Millennials and Gen Z continue to reshape the financial landscape in Indonesi
 
 When examining the brand preferences of these digital-savvy consumers, distinct differences between Gen Z and Millennials become apparent. Gen Z exhibits a strong preference for purely digital platforms, with 68% having top-of-mind awareness for SeaBank and 75% for blu by BCA Digital. These platforms align with Gen Z’s tech-forward mindset, offering the innovation and accessibility that they highly value.
 
-Millennials, however, show a slightly different tendency. Brands like Bank Jago, with 62% top-ofmind awareness, and Livin’ by Mandiri, leading at 88%, are more favored. These preferences indicate that Millennials may appreciate a combination of traditional banking reliability and the modern convenience of digital solutions. These brands have effectively transitioned into the digital space, offering the best of both worlds, which resonates well with Millennial consumers.
+Millennials, however, show a slightly different tendency. Brands like Bank Jago, with 62% top-of-mind awareness, and Livin’ by Mandiri, leading at 88%, are more favored. These preferences indicate that Millennials may appreciate a combination of traditional banking reliability and the modern convenience of digital solutions. These brands have effectively transitioned into the digital space, offering the best of both worlds, which resonates well with Millennial consumers.
 
 <p align="center">
   <img src="assets/image/24.png" alt="usage-of-selected-e-wallet-services">
@@ -662,7 +664,7 @@ While Gen Z remains hopeful about their future, many share concerns that their e
 
 > **“The Emancipated Curriculum is designed to prepare Indonesian students to face various challenges, including environmental, economic, scientific, and sociocultural changes. By focusing on more relevant and essential learning materials, the Emancipated Curriculum encourages students to enjoy the learning process, contextualize the knowledge obtained at school, and unleash their potentials”**
 >
-> - Nadiem Anwar Makarim, Minister of Education, Culture, Research, and Technology
+> – Nadiem Anwar Makarim, Minister of Education, Culture, Research, and Technology
 
 ### Collaborating to Bridge the Gap Between Education and Industry
 Preparing Gen Z and future generations for the workforce is a collective responsibility that extends beyond the classroom. There is a growing expectation for collaboration between the education sector and the corporate world to create a seamless transition from school to work. This partnership is essential in equipping young people with the skills, experiences, and mindsets needed to thrive in a rapidly changing job market.
