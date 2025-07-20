@@ -1137,11 +1137,13 @@ By mixing the flair of content creators with the rigor of journalism, nomad medi
 ### Successful Strategies for Thriving in the Algorithm-Driven World
 To navigate the trend-driven landscape shaped by social media algorithms, consumers, content creators, and brands in Indonesia must adopt strategic approaches. Consumers should be mindful of impulse buying, focus on quality and sustainability, and personalize trends to fit their long-term goals. Content creators can stand out by leveraging viral trends creatively, engaging with their audience, and maintaining authenticity to build genuine connections. For brands, the key is to adapt quickly to emerging trends while balancing trendiness with sustainability. Utilizing lo-fi marketing strategies and collaborating with like-minded creators can maximize impact. By understanding and responding to these dynamics, all parties can effectively engage with Indonesian Millennials and Gen Z in a rapidly evolving digital environment.
 
-| Category                                                                                                  |
-|:--------------------------------------------------------------------------------------------------------- |
-| **Be Mindful of Impulse Buying:**<br>Assess if a product truly meets your needs before purchasing.        |
-| **Prioritize Quality and Sustainability:**<br>Focus on durable, ethically produced items.                 |
-| **Personalize Trends:**Adapt trends to fit your personal style and needs, customizing them for longevity. |
+| Category                                                                                                      | For Content Creators                                                                                              |
+|:------------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------- |
+| **Be Mindful of Impulse Buying:**<br>Assess if a product truly meets your needs before purchasing.            | **Leverage Viral Trends Creatively:**<br>Participate in trends but add your unique twist to stand out.            |
+| **Prioritize Quality and Sustainability:**<br>Focus on durable, ethically produced items.                     | **Engage and Interact with Followers:**Actively engage to boost visibility and build a loyal audience.            |
+| **Personalize Trends:**<br>Adapt trends to fit your personal style and needs, customizing them for longevity. | **Maintain Authenticity:**Ensure your content remains true to your personal brand, fostering genuine connections. |
+
+
 
 A prime example of how trend-driven algorithms impact entertainment is Netflix’s personalized recommendation system. This advanced algorithm tailors content suggestions to individual preferences by analyzing user behavior, including viewing history and interaction patterns. For Millennials and Gen Z, who value personalized experiences, this system enhances user engagement by making content discovery more intuitive and relevant. By focusing on viewers’ likes, Netflix reduces the time spent searching for shows and increases time spent enjoying content that resonates.
 
